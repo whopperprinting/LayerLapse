@@ -16,13 +16,17 @@ The official LayerLapse device is a plug-and-play solution using a compact custo
 The board is powered via USB-C (cable **not** included by default — available as an add-on).
 Camera shutter cables (2.5mm to your camera brand) are also **not** included by default, but are available as optional add-ons.
 
-### Programming the Board:
+### Modifying the Board:
 
-LayerLapse includes an extra GPIO pin for custom expansion — perfect for adding a servo, LED, infrared module, or other creative mods that activate on every layer change. For example, you could use a servo to physically press the shutter on any camera with a remote — making LayerLapse compatible with virtually any camera system, even those without a shutter jack. The code is [available here](code/DIY_LayerLapse_firmware.txt), free for you to modify! **Note:** In order to program the board, you'll need a UPDI programmer (3-pin: GND, VCC, UPDI).
+LayerLapse ships pre-programmed and ready to use, but if you'd like to upload custom firmware, you absolutely can! The board includes a 4-pin header for easy programming — three pins for flashing (VCC, GND, UPDI) and one extra GPIO pin for expansion.
+
+The extra GPIO pin opens the door for creative mods: add a servo, LED, infrared module, or anything else you'd like to trigger on each layer change. For example, you could attach a servo to physically press a remote shutter — making LayerLapse compatible with virtually any camera system, even those without a shutter jack.
+
+> #### **Note:** You'll need a UPDI programmer (3-pin: GND, VCC, UPDI) to upload custom firmware.
 
 ### DIY Option:
 
-For those who prefer to build their own, a full DIY guide is included in this repository. While the DIY route is completely possible using off-the-shelf components, **LayerLapse was created to save time, simplify the process, and deliver beautiful results right out of the box.**
+For those who prefer to build their own timelapse device, a full DIY guide is included in this repository. While the DIY route is completely possible using off-the-shelf components, **LayerLapse was created to save time, simplify the process, and deliver beautiful results right out of the box.**
 
 **Camera [compatibility list](docs/camera_compatibility.md) is a work in progress.**
 
