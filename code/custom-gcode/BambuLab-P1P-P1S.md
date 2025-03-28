@@ -1,4 +1,4 @@
-# For BambuLab P1P and P1S (presumably X1 printers aslo)
+# For BambuLab P1P and P1S (presumably X1 printers also)
 
 Copy and paste the code below into "Layer change G-code" in the printer settings in the BambuStudio slicer.
 
