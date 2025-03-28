@@ -17,6 +17,8 @@ Camera shutter cables (2.5mm to your camera brand) are also **not** included by 
 
 To use it, simply plug in the components, place the sensor near your printer’s parked position (within ~10mm of the magnet), and attach the magnet to your print head — you’ll be capturing clean, professional-looking timelapses in minutes.
 
+LayerLapse also comes with an extra GPIO pin for custom expansion — add a servo, LED, infrared, or other mods.
+
 For those who prefer to build their own, a full DIY guide is included in this repository. While the DIY route is completely possible using off-the-shelf components, LayerLapse was created to save time, simplify the process, and deliver beautiful results right out of the box.
 
 ---
