@@ -1,4 +1,4 @@
-MIT License (applies to firmware only)
+MIT License (applies to files in the `code/` directory only)
 
 Copyright (c) 2025 Whopper Printing
 
@@ -23,7 +23,7 @@ SOFTWARE.
 
 NOTE:
 
-This license applies only to files in the `firmware/` directory.
-You are welcome to build your own DIY version using off-the-shelf components (such as an Arduino and Hall sensor) with this firmware. A DIY section is included in this repository to help guide you through that.
+This license applies only to the code found in the `code/` directory.
+You are welcome to build your own DIY version using off-the-shelf components (such as an Arduino and Hall sensor) with this code, in fact, I encourage it! A DIY section is included in this repository to help guide you through that.
 However, the official LayerLapse hardware — including its custom PCB, physical design, and branding — remains proprietary and is not licensed for redistribution or reproduction.
 Use of the hardware for commercial purposes is not permitted without explicit permission from Whopper Printing.
