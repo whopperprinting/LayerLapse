@@ -51,7 +51,7 @@ Once set up, LayerLapse will automatically trigger your camera after every layer
 ## 🔧 Uploading Firmware (Only needed if you're customizing — LayerLapse is shipped preloaded and ready to use)
 
 Steps:
-1. Copy the code from [`firmware/LayerLapse_firmware.txt`](firmware/DIY_LayerLapse_firmware.txt)
+1. Copy the code from [`code/LayerLapse_firmware.txt`](code/DIY_LayerLapse_firmware.txt)
 2. Paste it into the Arduino IDE
 3. Select the correct board/port and upload
 
