@@ -62,7 +62,7 @@ Want to help? Submit a PR or open an issue!
 ## 🤝 Contributing
 
 Want to improve the firmware, add camera compatibility info, or help make this project better?
-Please read the [**Contributing Guidelines**](CONTRIBUTING.md) before submitting a pull request or opening an issue.
+Please read the [`Contributing Guidelines`](CONTRIBUTING.md) before submitting a pull request or opening an issue.
 
 ---
 
