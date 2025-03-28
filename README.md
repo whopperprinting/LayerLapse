@@ -8,7 +8,7 @@ The official LayerLapse device is a plug-and-play solution using a compact custo
 
 ### Camera Compatibility
 
-**The [Camera compatibility list](docs/camera_compatibility.md) is a work in progress.** So far, I can only confirm the cameras on this list work with 100% certainty. I am still gathering more information.
+**The [Camera compatibility list](docs/camera_compatibility.md) is a work in progress.** So far, I can only confirm the cameras on this list work with 100% certainty. I am still gathering more information. LayerLapse does come with a spare GPIO pin, so if you did happen to have issues, you could theoretically make it work.
 
 ### Each LayerLapse kit includes:
 
