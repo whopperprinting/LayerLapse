@@ -26,6 +26,6 @@ NOTE:
 This license applies only to the code found in the `code/` directory.
 You are welcome to build your own DIY version using off-the-shelf components (such as an Arduino and Hall sensor) with this code, in fact, I encourage it! A DIY section is included in this repository to help guide you through that.
 However, the official LayerLapse hardware — including its custom PCB, physical design, and branding — remains proprietary and is not licensed for redistribution or reproduction.
-Use of the hardware for commercial purposes is not permitted without explicit permission from Whopper Printing.
+Use of the hardware for commercial purposes is not permitted without explicit permission from Whopper Printing. However, any content made using this device is purely yours to do as you wish.
 
 LayerLapse™ and Whopper Printing™ are trademarks of Whopper Printing. All rights reserved.
