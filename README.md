@@ -29,7 +29,7 @@ For those who prefer to build their own, a full DIY guide is included in this re
    - Connect the 2.5mm shutter cable from the mainboard to your camera
 2. Mount the magnet to your 3D printer's toolhead (use the included 5×5×2mm magnet).
 3. Place the sensor near the printer’s parked position — ideally within ~10mm of the magnet at its closest pass.
-4. Add G-code in your slicer to move the print head to that sensor location after each layer.
+4. Add G-code (like a custom layer change script) in your slicer to move the print head to that sensor location (e.g., G1 X0 Y200) after each layer.
 
 Once set up, LayerLapse will automatically trigger your camera after every layer, creating smooth and consistent timelapse footage!
 
@@ -98,7 +98,6 @@ Please read the [`Contributing Guidelines`](CONTRIBUTING.md) before submitting a
 ## 🛡️ License
 
 The code in this repo is licensed under the **MIT License** — for firmware only.  
-You are free to build your own DIY version using Arduino components and this code.
 
 > 🛠️ You are welcome to build your own DIY version using Arduino components and the open firmware provided.🚫 However, the official hardware design (PCB layout, enclosure, and branding) is proprietary and not licensed for reproduction, resale, or modification.
 
