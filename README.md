@@ -1,6 +1,7 @@
 # LayerLapse – 3D Printing Timelapse Trigger Device
 
-**LayerLapse** is a camera trigger designed for 3D printers that captures a photo on every new layer using a hall effect sensor and a magnet mounted to your print head. This creates buttery smooth, layer-by-layer timelapse footage — perfect for makers, designers, and content creators. It's an awesome way to view your prints from a whole new perspective.
+**LayerLapse** is a camera trigger designed for 3D printers that captures a photo on every new layer using a hall effect sensor and a magnet mounted to your print head. This creates buttery smooth, layer-by-layer timelapse footage — perfect for makers, designers, and content creators.
+The LayerLapse system is completely independent electronically from your printer. It doesn’t require any firmware modifications, soldering, or make physical contact with moving parts — meaning no wear and tear on your printer. You simply add a few lines of gcode, and LayerLapse simply listens for the magnet and triggers your camera accordingly. A built-in dial lets you adjust the delay between magnet detection and photo capture (0–5 seconds), allowing your printer time to settle and eliminating blur caused by vibrations or motion that would otherwise show up on the final timelapse.
 
 The official LayerLapse device is a plug-and-play solution using a compact custom PCB, built and sold by **Whopper Printing**. You can get the completed, plug-and-play [LayerLapse here.](https://whopperprinting.com/)
 
@@ -15,9 +16,11 @@ Each LayerLapse kit includes:
 The board is powered via USB-C (cable **not** included by default — available as an add-on).
 Camera shutter cables (2.5mm to your camera brand) are also **not** included by default, but are available as optional add-ons.
 
-LayerLapse also comes with an extra GPIO pin for custom expansion — add a servo, LED, infrared, or other mods.
+LayerLapse includes an extra GPIO pin for custom expansion — perfect for adding a servo, LED, infrared module, or other creative mods that activate on every layer change. For example, you could use a servo to physically press the shutter on any camera with a remote — making LayerLapse compatible with virtually any camera system, even those without a shutter jack. The code is [available here](code/DIY_LayerLapse_firmware.txt), free for you to modify!
 
-For those who prefer to build their own, a full DIY guide is included in this repository. While the DIY route is completely possible using off-the-shelf components, LayerLapse was created to save time, simplify the process, and deliver beautiful results right out of the box.
+For those who prefer to build their own, a full DIY guide is included in this repository. While the DIY route is completely possible using off-the-shelf components, **LayerLapse was created to save time, simplify the process, and deliver beautiful results right out of the box.**
+
+**Camera [compatibility list](docs/camera_compatibility.md) is a work in progress.**
 
 ---
 
@@ -29,7 +32,7 @@ For those who prefer to build their own, a full DIY guide is included in this re
    - Connect the 2.5mm shutter cable from the mainboard to your camera
 2. Mount the magnet to your 3D printer's toolhead (use the included 5×5×2mm magnet).
 3. Place the sensor near the printer’s parked position — ideally within ~10mm of the magnet at its closest pass.
-4. Add G-code (like a custom layer change script) in your slicer to move the print head to that sensor location (e.g., G1 X0 Y200) after each layer.
+4. Add G-code (like a custom layer change script) in your slicer to move the print head to that sensor location (e.g., G1 X0 Y200) after each layer. [Custom gcode available here.](code/custom-gcode)
 
 Once set up, LayerLapse will automatically trigger your camera after every layer, creating smooth and consistent timelapse footage!
 
