@@ -1,0 +1,43 @@
+// Copy and paste this into ArduinoIDE and upload
+
+// Define pins for Hall effect sensor and camera trigger
+const int hallSensorPin = 7;    // Hall sensor connected to digital pin 7
+const int cameraTriggerPin = 5; // Camera trigger connected to digital pin 5
+// Add a potentiometer to this to setup to change delays on the go, not necessary
+
+// Fixed delay settings
+const unsigned long potDelay = 500;  // Delay in milliseconds before taking the photo
+const unsigned long cooldownDelay = 2000; // Cooldown delay before allowing another trigger
+
+// State tracking
+unsigned long lastTriggerTime = 0;  
+bool magnetDetected = false;  
+
+void setup() {
+  pinMode(hallSensorPin, INPUT_PULLUP);  // Enable internal pull-up resistor
+  pinMode(cameraTriggerPin, OUTPUT);
+  digitalWrite(cameraTriggerPin, LOW);   // Ensure camera trigger starts LOW
+}
+
+void loop() {
+  int hallSensorState = digitalRead(hallSensorPin);
+  unsigned long currentTime = millis();
+
+  // If magnet is detected and not previously detected
+  if (hallSensorState == LOW && !magnetDetected && (currentTime - lastTriggerTime >= cooldownDelay)) {
+    magnetDetected = true;  // Mark the magnet as detected
+    delay(potDelay);  // Wait this amount before triggering, to eliminate vibrations in timelapse photos
+
+    // Trigger the camera
+    digitalWrite(cameraTriggerPin, HIGH);  
+    delay(100);  // Simulate button press for 100ms
+    digitalWrite(cameraTriggerPin, LOW);   
+
+    lastTriggerTime = currentTime;  // Update last trigger time
+  }
+
+  // Reset when the magnet is removed
+  if (hallSensorState == HIGH) {
+    magnetDetected = false;
+  }
+}
