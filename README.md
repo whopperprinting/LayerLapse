@@ -4,6 +4,21 @@
 
 The official LayerLapse device is a plug-and-play solution using a compact custom PCB, built and sold by **Whopper Printing**. You can get the completed, plug-and-play [LayerLapse here.](https://whopperprinting.com/)
 
+Each LayerLapse kit includes:
+
+- The compact, fully assembled LayerLapse mainboard
+- A dedicated magnetic hall effect sensor board
+- A 3.5mm male-to-male cable (connects the mainboard to the sensor board)
+- A pre-installed 2.5mm female shutter jack (connects to your camera)
+- A small 5×5×2mm neodymium magnet for mounting to your print head
+
+The board is powered via USB-C (cable **not** included by default — available as an add-on).
+Camera shutter cables (2.5mm to your camera brand) are also **not** included by default, but are available as optional add-ons.
+
+To use it, simply plug in the components, place the sensor near your printer’s parked position (within ~10mm of the magnet), and attach the magnet to your print head — you’ll be capturing clean, professional-looking timelapses in minutes.
+
+For those who prefer to build their own, a full DIY guide is included in this repository. While the DIY route is completely possible using off-the-shelf components, LayerLapse was created to save time, simplify the process, and deliver beautiful results right out of the box.
+
 ---
 
 ## 🎯 Features
