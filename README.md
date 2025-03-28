@@ -22,7 +22,7 @@ The official LayerLapse device is a plug-and-play solution using a compact custo
 ## 🔧 Uploading Firmware (Only needed if you're customizing — LayerLapse is shipped preloaded and ready to use)
 
 Steps:
-1. Copy the code from `firmware/LayerLapse_firmware.txt`
+1. Copy the code from [`firmware/LayerLapse_firmware.txt`](firmware/DIY_LayerLapse_firmware.txt)
 2. Paste it into the Arduino IDE
 3. Select the correct board/port and upload
 
