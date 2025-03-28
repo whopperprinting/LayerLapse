@@ -96,7 +96,7 @@ See the full license here: [`LICENSE`](LICENSE)
 
 Created by **Whopper Printing**  
 
-For questions, feedback, or orders:
+For questions, feedback, or orders:  
 📩 Email: whopperprinting@gmail.com  
 🔗 Website: [whopperprinting.com](https://whopperprinting.com/) <- Purchase LayerLapse here!  
 📷 Instagram: [@whopperprinting](https://instagram.com/whopperprinting)  
