@@ -4,7 +4,7 @@
 
 The LayerLapse system is completely independent electronically from your printer; nothing actually plugs into the printer. It doesn’t require any printer firmware modifications, soldering, programming, nor does it make physical contact with any moving parts — meaning no unnecessary wear and tear on your printer (like a physical limit switch would cause.) You simply add a few lines of gcode in your slicer, and LayerLapse simply listens for the magnet and triggers your camera accordingly. A built-in dial lets you adjust the delay between magnet detection and photo capture (0–5 seconds, alterable), allowing your printer time to settle and eliminating blur caused by vibrations or motion that would otherwise show up on the final timelapse.
 
-The official LayerLapse device is a plug-and-play solution using a compact custom PCB, built and sold by **Whopper Printing**. You can get the completed, plug-and-play [LayerLapse kit here.](https://whopperprinting.com/)
+The official LayerLapse device is a plug-and-play solution using a compact custom PCB, built and sold by **Whopper Printing**. You can get the completed, plug-and-play [LayerLapse kit here.](https://whopperprinting.com/) (Releasing April 2025)
 
 ### Printer Agnostic
 
