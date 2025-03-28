@@ -5,7 +5,7 @@ The LayerLapse system is completely independent electronically from your printer
 
 The official LayerLapse device is a plug-and-play solution using a compact custom PCB, built and sold by **Whopper Printing**. You can get the completed, plug-and-play [LayerLapse here.](https://whopperprinting.com/)
 
-Each LayerLapse kit includes:
+### Each LayerLapse kit includes:
 
 - The compact, fully assembled LayerLapse mainboard
 - A dedicated magnetic hall effect sensor board
@@ -16,7 +16,11 @@ Each LayerLapse kit includes:
 The board is powered via USB-C (cable **not** included by default — available as an add-on).
 Camera shutter cables (2.5mm to your camera brand) are also **not** included by default, but are available as optional add-ons.
 
-LayerLapse includes an extra GPIO pin for custom expansion — perfect for adding a servo, LED, infrared module, or other creative mods that activate on every layer change. For example, you could use a servo to physically press the shutter on any camera with a remote — making LayerLapse compatible with virtually any camera system, even those without a shutter jack. The code is [available here](code/DIY_LayerLapse_firmware.txt), free for you to modify!
+### Programming the Board:
+
+LayerLapse includes an extra GPIO pin for custom expansion — perfect for adding a servo, LED, infrared module, or other creative mods that activate on every layer change. For example, you could use a servo to physically press the shutter on any camera with a remote — making LayerLapse compatible with virtually any camera system, even those without a shutter jack. The code is [available here](code/DIY_LayerLapse_firmware.txt), free for you to modify! **Note:** In order to program the board, you'll need a UPDI programmer (3-pin: GND, VCC, UPDI).
+
+### DIY Option:
 
 For those who prefer to build their own, a full DIY guide is included in this repository. While the DIY route is completely possible using off-the-shelf components, **LayerLapse was created to save time, simplify the process, and deliver beautiful results right out of the box.**
 
@@ -56,7 +60,8 @@ Once set up, LayerLapse will automatically trigger your camera after every layer
 Steps:
 1. Copy the code from [`code/LayerLapse_firmware.txt`](code/DIY_LayerLapse_firmware.txt)
 2. Paste it into the Arduino IDE
-3. Select the correct board/port and upload
+3. Connect your UPDI programmer to the board (3-pin: GND, VCC, UPDI)
+4. Select the correct board/port and upload
 
 ---
 
