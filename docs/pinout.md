@@ -2,7 +2,7 @@
 
 This table outlines the key pin assignments for the LayerLapse device using the ATtiny1604 microcontroller.
 
-| Function              | ATtiny1604 Pin # | Port | Direction | Description                             |
+| Function              | ATtiny1604 Pin # | Name | Direction | Description                             |
 |----------------------|------------------|------|-----------|-----------------------------------------|
 | Shutter Trigger      | 7                | PB2  | Output    | Controls camera shutter via transistor (tip + ring) |
 | LED Indicator        | 6                | PB3  | Output    | Status LED for visual feedback          |
