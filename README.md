@@ -43,7 +43,7 @@ For those who prefer to build their own timelapse device, a full DIY guide is in
    - Plug in a USB-C power cable
    - Connect the 2.5mm shutter cable from the mainboard to your camera
 2. Mount the magnet to your 3D printer's toolhead (use the included 5×5×2mm magnet).
-3. Place the sensor near the printer’s parked position — ideally within ~10mm of the magnet at its closest pass.
+3. Place the sensor near the printer’s parked position (that you choose in gcode) — ideally within ~10mm of the magnet at its closest pass so the sensor can pickup the magnet.
 4. Add G-code (like a custom layer change script) in your slicer to move the print head to that sensor location (e.g., G1 X0 Y200) after each layer. [Custom gcode available here.](code/custom-gcode)
 
 Once set up, LayerLapse will automatically trigger your camera after every layer, creating smooth and consistent timelapse footage!
