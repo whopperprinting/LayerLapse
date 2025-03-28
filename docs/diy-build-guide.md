@@ -14,8 +14,8 @@ This guide will help you build your own basic version of the LayerLapse timelaps
 
 ## 🧠 How It Works
 - A magnet is affixed to the print head
-- Printers "layer change" gcode is modified to park the printer somewhere, such as the back right corner of the printer
-- When the printer parks in its designated location, the hall sensor detects the magnet
+- Printer's "layer change" gcode is modified to park the printer somewhere you specify, such as the back right corner of the printer
+- When the printer parks in its designated location, the hall sensor detects the magnet on the parked printhead
 - The Arduino waits for vibrations to settle (add a delay)
 - Then it triggers the camera shutter using the transistor
 - The printer then continues printing, repeating this process every layer
