@@ -1,4 +1,4 @@
-# DIY Build Guide
+# DIY Build Guide (Not Complete)
 
 This guide will help you build your own basic version of the LayerLapse timelapse trigger using off-the-shelf parts.
 
