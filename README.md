@@ -18,8 +18,9 @@ The official LayerLapse device is a plug-and-play solution using a compact custo
 - A pre-installed 2.5mm female shutter jack (connects to your camera)
 - A small 5×5×2mm neodymium magnet for mounting to your print head
 
-The board is powered via USB-C (cable **not** included by default — available as an add-on).
-Camera shutter cables (2.5mm to your camera brand) are also **not** included by default, but will be available as optional add-ons.
+### Not Included (can be added):
+- The board is powered via USB-C (cable **not** included by default — available as an add-on).
+- Camera shutter cables (2.5mm to your camera brand) are also **not** included by default, but will be available as optional add-ons.
 
 ### Modifying the Board:
 
