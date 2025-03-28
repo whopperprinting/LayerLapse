@@ -15,7 +15,7 @@ Each LayerLapse kit includes:
 The board is powered via USB-C (cable **not** included by default — available as an add-on).
 Camera shutter cables (2.5mm to your camera brand) are also **not** included by default, but are available as optional add-ons.
 
-To use it, simply plug in the components, place the sensor near your printer’s parked position (within ~10mm of the magnet), and attach the magnet to your print head — you’ll be capturing clean, professional-looking timelapses in minutes.
+To use LayerLapse, simply plug in the components, place the sensor near your printer’s parked position (within ~10mm of the magnet), and attach the magnet to your print head. Add some lines of gcode in your slicer (to specify the printhead parking location) — you’ll be capturing clean, professional-looking timelapses in minutes.
 
 LayerLapse also comes with an extra GPIO pin for custom expansion — add a servo, LED, infrared, or other mods.
 
