@@ -4,12 +4,12 @@
 
 The LayerLapse system is completely independent electronically from your printer. It doesn’t require any printer firmware modifications, soldering, programming, nor does it make physical contact with any moving parts — meaning no wear and tear on your printer (like a physical limit switch would cause.) You simply add a few lines of gcode in your slicer, and LayerLapse simply listens for the magnet and triggers your camera accordingly. A built-in dial lets you adjust the delay between magnet detection and photo capture (0–5 seconds), allowing your printer time to settle and eliminating blur caused by vibrations or motion that would otherwise show up on the final timelapse.
 
+The official LayerLapse device is a plug-and-play solution using a compact custom PCB, built and sold by **Whopper Printing**. You can get the completed, plug-and-play [LayerLapse kit here.](https://whopperprinting.com/)
+
 ### Printer Agnostic
 
 LayerLapse is completely printer-agnostic — from an Ender 3 to an X1C!
 It works with virtually any 3D printer as long as you can mount the sensor somewhere near the toolhead and add a simple line of G-code in your slicer to pause the head briefly after each layer. I've included an STL file of thr sensor board so you can ensure it works for your setup before purchasing. I'm also including the STEP files so you can create your own enclosures and mounting brackets.
-
-The official LayerLapse device is a plug-and-play solution using a compact custom PCB, built and sold by **Whopper Printing**. You can get the completed, plug-and-play [LayerLapse kit here.](https://whopperprinting.com/)
 
 ### Camera Compatibility
 
