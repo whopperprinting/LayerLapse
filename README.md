@@ -119,7 +119,7 @@ Please read the [`Contributing Guidelines`](CONTRIBUTING.md) before submitting a
 
 The code in this repo is licensed under the **MIT License** — for firmware only.  
 
-> 🛠️ You are welcome to build your own DIY version using Arduino components and the open firmware provided.🚫 However, the official hardware design (PCB layout, enclosure, and branding) is proprietary and not licensed for reproduction, resale, or modification.
+> 🛠️ You are welcome to build your own DIY version using Arduino components and the open firmware provided.🚫 However, the PCB and branding are not licensed for reproduction, resale, or modification.
 
 See the full license here: [`LICENSE`](LICENSE)
 
