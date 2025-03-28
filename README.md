@@ -6,6 +6,8 @@ The LayerLapse system is completely independent electronically from your printer
 
 The official LayerLapse device is a plug-and-play solution using a compact custom PCB, built and sold by **Whopper Printing**. You can get the completed, plug-and-play [LayerLapse kit here.](https://whopperprinting.com/)
 
+### Camera Compatibility
+
 **Camera [compatibility list](docs/camera_compatibility.md) is a work in progress.** So far, I can only confirm the cameras on this list work with 100% certainty. I am still gathering more information.
 
 ### Each LayerLapse kit includes:
