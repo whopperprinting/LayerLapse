@@ -1,6 +1,6 @@
 # Camera Compatibility
 
-Here are cameras that have been tested and confirmed to work with LayerLapse via a 2.5mm shutter release cable.
+Here are cameras that have been tested and confirmed to work with LayerLapse via a 2.5mm shutter release cable. This list is a work in progress.
 
 ✅ = Fully working  
 ⚠️ = Partial support / uncertain behavior  
