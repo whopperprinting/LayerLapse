@@ -15,11 +15,23 @@ Each LayerLapse kit includes:
 The board is powered via USB-C (cable **not** included by default — available as an add-on).
 Camera shutter cables (2.5mm to your camera brand) are also **not** included by default, but are available as optional add-ons.
 
-To use LayerLapse, simply plug in the components, place the sensor near your printer’s parked position (within ~10mm of the magnet), and attach the magnet to your print head. Add some lines of gcode in your slicer (to specify the printhead parking location) — you’ll be capturing clean, professional-looking timelapses in minutes.
-
 LayerLapse also comes with an extra GPIO pin for custom expansion — add a servo, LED, infrared, or other mods.
 
 For those who prefer to build their own, a full DIY guide is included in this repository. While the DIY route is completely possible using off-the-shelf components, LayerLapse was created to save time, simplify the process, and deliver beautiful results right out of the box.
+
+---
+
+## 🛠️ Getting Started (Quick Setup)
+
+1. Plug in the components:
+   - Connect the 3.5mm cable between the mainboard and the sensor board
+   - Plug in a USB-C power cable
+   - Connect the 2.5mm shutter cable from the mainboard to your camera
+2. Mount the magnet to your 3D printer's toolhead (use the included 5×5×2mm magnet).
+3. Place the sensor near the printer’s parked position — ideally within ~10mm of the magnet at its closest pass.
+4. Add G-code in your slicer to move the print head to that sensor location after each layer.
+
+Once set up, LayerLapse will automatically trigger your camera after every layer, creating smooth and consistent timelapse footage!
 
 ---
 
@@ -51,7 +63,7 @@ Sure! I've made a DIY guide so you can prototype your own version with an Arduin
 👉 [`docs/diy-build-guide.md`](docs/diy-build-guide.md)
 
 You’ll need:
-- Microntroller (like an Arduino)
+- Microcontroller (like an Arduino)
 - Hall effect sensor (3-pin, e.g., A3144)
 - 2.5mm camera shutter cable (compatible with your camera)
 - 2.5mm female jack
