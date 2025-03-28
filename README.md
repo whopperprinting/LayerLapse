@@ -126,3 +126,5 @@ For questions, feedback, or orders:
 🔗 Website: [whopperprinting.com](https://whopperprinting.com/) <- Purchase LayerLapse here!  
 📷 Instagram: [@whopperprinting](https://instagram.com/whopperprinting)  
 🕒 TikTok: [@whopperprinting](https://www.tiktok.com/@whopperprinting?is_from_webapp=1&sender_device=pc)
+
+LayerLapse™ and Whopper Printing™ are trademarks of Whopper Printing. All rights reserved.
