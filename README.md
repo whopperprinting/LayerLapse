@@ -26,7 +26,7 @@ The official LayerLapse device is a plug-and-play solution using a compact custo
 
 LayerLapse ships pre-programmed and ready to use, but if you'd like to upload custom firmware, you absolutely can! The board includes a 4-pin header for easy programming — three pins for flashing (VCC, GND, UPDI) and one extra GPIO pin for custom expansion. **You will need a UPDI programmer.**
 
-The extra GPIO pin opens the door for creative mods: add a servo, LED, infrared module, or anything else you'd like to trigger on each layer change. For example, you could attach a servo to physically press a remote shutter — making LayerLapse compatible with virtually any camera system, even those without a shutter jack.
+The extra GPIO pin opens the door for creative mods: add a servo, LED, infrared module, or anything else you'd like to trigger on each layer change, provided your add-on is able to be adequately powered by the 5V. For example, you could attach a servo to physically press a remote shutter — making LayerLapse compatible with virtually any camera system, even those without a shutter jack.
 
 > #### **Note:** You'll need a UPDI programmer (3-pin: GND, VCC, UPDI) to upload custom firmware.
 
