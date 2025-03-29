@@ -9,7 +9,10 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 ---
 
 ## ✅ Confirmed Working
-## Nikon
+
+<details>
+<summary><strong>Nikon Cameras</strong></summary>
+
 - Z7
 - Z7II
 - Z6
@@ -33,6 +36,40 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 - D610
 - D600
 - [Should work with all DC2 connectors, gathering more info]
+
+</details>
+
+## Should Work (need to confirm)
+
+<details>
+<summary><strong>Nikon</strong></summary>
+
+- Nikon Z9 / Z8
+- Nikon D850 / D810 / D800 / D700 / D500
+- Nikon D1 / D1h / D1x / D2H / D2x / D2Xs / D3 / D3s / D3x / D4 / D4s / D5 / D100 / D200 / D300 / D300s
+- Nikon F5 / F6 / F90 / F90x / F100
+
+</details>
+
+<details>
+<summary><strong>Canon Cameras</strong></summary>
+
+- EOS R1 / R3 / R5 / R5 Mark II
+- EOS 1D / 1D C / 1Ds / 1D Mark II / 1D Mark II N / 1D Mark III / 1D Mark IV / 1D X Mark III / 1D X Mark II / 1Ds Mark II / 1Ds Mark III 
+- EOS 5D / 5DS / 5DS R / 5D Mark II / 5D Mark III / 5D Mark IV / 6D / 6D Mark II / 7D / 7D Mark II
+- EOS 10D / 20D / 20Da / 30D / 40D / 50D / EOS 1V / EOS 3 / D30 / D60 / D2000
+- Rebel XS(1000D) / T3(1100D) / T5(1200D) / T6(1300D) / T7(1500D) / SL1(100D) / SL2(200D) / SL3(250D) / XT(350D) / XTi(400D) / XSi(450D) / T1i(500D) / T2i(550D) / T3i(600D) / T4i(650D) / T5i(700D) / T6i(750D) / T6s(760D) / T7i(800D) / T8i(850D)
+- EOS 60D / 60Da / 70D / 77D / 80D / 90D / R / RP / R6 / R6 Mark II / R7 / R8 / R10 / R100 / M6 / M6 Mark II / M5 
+- Powershot G10 / G11 / G12 / G15 / G16 / G1X / G1X Mark II / G1X Mark III / G3X / G5X / SX50 HS / SX60 HS / SX70 HS
+
+</details>
+
+<details>
+<summary><strong>Pentax Cameras</strong></summary>
+
+- K1 / K3 / K3 II / K5 / K5 II / K5 IIs / K7 / K30 / K50 / K10D / K20D / K100D / K100D Super / K110D / K200D / K500 / 645D / 645Z / ist / ist D / ist DL / ist DL2 / ist Ds / ist DS2 / MZ-6 / MZ-L / ZX-L
+
+</details>
 
 ---
 
