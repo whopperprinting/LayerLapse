@@ -128,7 +128,7 @@ Works with Fujifilm cameras that have a 2.5mm socket:
 
 <details>
   
-<summary><strong>Sigma</strong></summary>
+<summary><strong>Sigma (C1)</strong></summary>
   
 - Sd1
 
