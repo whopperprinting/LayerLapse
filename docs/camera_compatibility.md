@@ -13,29 +13,8 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 <details>
 <summary><strong>Nikon (N3 - MC-DC2)</strong></summary>
 
-- Z7
-- Z7 II
-- Z6
-- Z6 II
-- Z6 III
-- Z5
-- D750
-- D780
-- P1000
-- D7500
-- D7200
-- D5600
-- D5500
-- D5300
-- D5200
-- D5100
-- D5000
-- D3300
-- D3200
-- D7000
-- D7100
-- D610
-- D600
+- Z7 / Z7 II / Z6 / Z6 II / Z6 III / Z5
+- D750 / D780 / P1000 / D7500 / D7200 / D5600 / D5500 / D5300 / D5200 / D5100 / D5000 / D3300 / D3200 / D7000 / D7100 / D610 / D600
 - D90
 - Df
 - Nikon Coolpix P7700 / Coolpix P7800 / Coolpix P1000 / Coolpix P1100
