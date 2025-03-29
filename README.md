@@ -2,7 +2,7 @@
 
 **LayerLapse** is a camera trigger built for 3D printing that captures a photo on every new layer using a hall effect sensor and a small magnet mounted to your print head. It creates buttery-smooth, layer-by-layer timelapse footage — perfect for makers, designers, content creators, or anyone who wants to see their prints from a fresh new perspective.
 
-👉 [Timelapse taken with LayerLapse](https://drive.google.com/file/d/1yM6MAXSeQeDOSAyOlXsLas1SyJ33AH5O/view?usp=sharing)
+👉 [Timelapse taken with LayerLapse](https://www.instagram.com/reel/DHZqo8mtuyH/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==)
 
 The LayerLapse system is completely independent electronically from your printer; nothing actually plugs into the printer. It requires no printer firmware modifications, soldering, or programming, nor does it make physical contact with any moving parts — meaning no unnecessary wear and tear on your printer (like a physical limit switch would cause.) You simply add a few lines of gcode in your slicer, and LayerLapse simply listens for the magnet and triggers your camera accordingly. A built-in dial lets you adjust the delay between magnet detection and photo capture (0–5 seconds, alterable), allowing your printer time to settle and eliminating blur caused by vibrations or motion that would otherwise show up on the final timelapse.
 
@@ -30,7 +30,11 @@ It works with virtually any 3D printer as long as you can mount the sensor somew
 
 ### Modifying the Board:
 
-LayerLapse ships pre-programmed and ready to use, but if you'd like to upload custom firmware, you absolutely can! The board includes a 4-pin header for easy programming — three pins for flashing (VCC, GND, UPDI) and one extra GPIO pin for custom expansion. **You will need a UPDI programmer.**
+LayerLapse ships pre-programmed and ready to use, but if you'd l
+
+https://github.com/user-attachments/assets/f1f56457-3936-4b64-b015-b708e3e374df
+
+ike to upload custom firmware, you absolutely can! The board includes a 4-pin header for easy programming — three pins for flashing (VCC, GND, UPDI) and one extra GPIO pin for custom expansion. **You will need a UPDI programmer.**
 
 The extra GPIO pin opens the door for creative mods: add a servo, LED, infrared module, or anything else you'd like to trigger on each layer change, provided your add-on is able to be adequately powered by 5V. For example, you could attach a servo to physically press a remote shutter — making LayerLapse compatible with virtually any camera system, even those without a shutter jack.
 
