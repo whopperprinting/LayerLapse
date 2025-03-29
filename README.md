@@ -52,6 +52,13 @@ For those who prefer to build their own timelapse device, a [full DIY guide](doc
 
 Once set up, LayerLapse will automatically trigger your camera after every layer, creating smooth and consistent timelapse footage!
 
+### Tips:
+
+- Set a delay in your code that is reasonable. If you take a photo right after triggering, you'll get vibrations in your timelapse.
+- Make sure to set your focus wisely before starting. I reccomend placing an object where you're going to print and focus on that. You don't want to look at your timelapse in the end and see it's out of focus.
+- Make sure your camera's standby time is high enough to not cause lag during the printing. I had mine set to go into standby mode after a few seconds, this cause lag between the trigger and the camere actually taking the photo, ruining timelapses until I figure out the issue. But again, every camera is different.
+- Use an AC dummy battery for your camera. You wouldn't want your camera dying halfway through a print.
+
 ---
 
 ## 🎯 Features
@@ -79,10 +86,8 @@ Steps:
 
 ## 🧠 Want to Build Your Own?
 
-Awesome! I want everyone of all skills to enjoy their own timelapses! I've made a DIY guide with a list of materials so you can prototype your own version with an Arduino. Check out the DIY guide:  
+Awesome! I want everyone of all skills to enjoy their own timelapses! I've made a DIY guide with a list of materials so you can prototype your own version with an Arduino. Check out the [DIY guide!](docs/diy-build-guide.md)  
   
-- [DIY Guide](docs/diy-build-guide.md)
-
 ---
 
 ## 🤝 Contributing
