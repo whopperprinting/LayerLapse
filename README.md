@@ -9,7 +9,7 @@ The official LayerLapse device is a plug-and-play solution using a compact custo
 ### Printer Agnostic
 
 LayerLapse is completely printer-agnostic — from an Ender 3 to an X1C!
-It works with virtually any 3D printer as long as you can mount the sensor somewhere near the toolhead and add a simple line of G-code in your slicer to pause the head briefly after each layer. I've included a [STEP file of the sensor board](docs/HallSensorTest.step) so you can ensure it works for your setup before purchasing. Just print it out to test! I'm also including the STEP files so you can create your own enclosures and mounting brackets for any printer that you may have.
+It works with virtually any 3D printer as long as you can mount the sensor somewhere near the toolhead and add a simple line of G-code in your slicer to pause the head briefly after each layer. I've included a [STEP file of the sensor board](docs/HallSensorTest.step) so you can fit test it on your setup to ensure it works for you before purchasing. Just print it out to test! I'm also including the STEP files so you can create your own enclosures and mounting brackets for any printer that you may have.
 
 ### Camera Compatibility
 
