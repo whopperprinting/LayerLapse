@@ -57,9 +57,11 @@ Your device should look like the wiring below:
 
 ![IMG_6293](https://github.com/user-attachments/assets/2d1b112b-d509-4314-9b0c-4410fc75e854)
 
-## 📂 Firmware
-You can find the code to copy-paste here:  
-[`firmware/LayerLapse_firmware.txt`](/code/DIY_LayerLapse_firmware.txt)
+## 📂 Code
+
+You are now ready to upload the code to your Arduino.
+  
+[You can find the code to copy-paste here.](/code/DIY_LayerLapse_firmware.txt)
 
 ---
 
