@@ -13,3 +13,6 @@ This table outlines the key pin assignments for the LayerLapse device using the 
 | GND                  | 14                | GND  | —         | Ground                                   |
 | VCC                  | 1                | VDD  | —         | 5V power input (via USB-C)              |
 
+## Pinout Diagram
+
+![ATTiny1604pinout](https://github.com/user-attachments/assets/44c14b94-aa45-4a28-9825-55f1770bce04)
