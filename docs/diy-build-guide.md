@@ -59,7 +59,7 @@ Your device should look like the wiring below:
 
 ## 📂 Firmware
 You can find the code to copy-paste here:  
-[`firmware/LayerLapse_firmware.txt`](../code/LayerLapse_firmware.txt)
+[`firmware/LayerLapse_firmware.txt`](/code/DIY_LayerLapse_firmware.txt)
 
 ---
 
