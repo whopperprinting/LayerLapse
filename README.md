@@ -1,6 +1,6 @@
 # LayerLapse – 3D Printing Timelapse Trigger Device
 
-**LayerLapse** is a camera trigger designed specifically for 3D printing. It captures a photo on every new layer using a hall effect sensor and a small magnet mounted to your print head — producing buttery-smooth, layer-by-layer timelapse footage. Perfect for makers, designers, and content creators who want to showcase their prints from a stunning new perspective.
+**LayerLapse** is a camera trigger designed specifically for 3D printing. It captures a photo on every new layer using a hall effect sensor and a small magnet mounted to your print head — producing buttery-smooth, layer-by-layer timelapse footage. Perfect for makers, designers, content creators, or just people who want to see their prints from a new perspective.
   
 👉 [Timelapse taken with LayerLapse](https://www.instagram.com/reel/DHZqo8mtuyH/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==)
 
