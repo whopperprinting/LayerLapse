@@ -72,25 +72,20 @@ Everyone has different printers so this step will look different for everyone, b
 
 ## Custom gcode
 
-This is the very last step of the whole build. You'll need to figure out a location to park your printer. For example, I parked my P1P in the back right corner, and then I taped the hall sensor to the frame right under where the magnet will be. Save this location and add this to the layer change gcode in your slicer.
+This is the very last step of the whole build. You'll need to figure out a location to park your printhead during the timelapse. For example, I parked my P1P in the back right corner, then I taped the hall sensor to the frame right under where the magnet will be. Save this location and add this to the layer change gcode in your slicer. This is the final puzzle piece to the whole system.
 
 [See gcode examples here.](/code/custom-gcode)
 
 ## Final Remarks
 
-Now all thats left is to plug in your arduino, plug in your camera to the 2.5mm jack, and get to printing!
+Now all thats left is to plug in your Arduino, plug in your camera to the 2.5mm jack, and get to printing!
 
 ### Tips:
 
-- 
-
-## 🧠 How It Works
-- A magnet is affixed to the print head
-- Printer's "layer change" gcode is modified to park the printer somewhere you specify, such as the back right corner of the printer
-- When the printer parks in its designated location, the hall sensor detects the magnet on the parked printhead
-- The Arduino waits for vibrations to settle (add a delay)
-- The camera shutter is triggered using the transistor
-- The printer then continues printing, repeating this process every layer
+- Set a delay in your code that is reasonable. If you take a photo right after triggering, you'll get vibrations in your timelapse.
+- Make sure to set your focus wisely before starting. I reccomend placing an object where you're going to print and focus on that. You don't wnat to look at your timelapse in the end and see it's out of focus.
+- Make sure your camera's standby time is high enough to not cause lag during the printing. I had mine set to go into standby mode after a few seconds, this cause lag between the trigger and the camere actually taking the photo, ruining timelapses until I figure out the issue.
+- Use an AC dummy battery for your camera. You wouldn't want your camera dying halfway through a print.
 
 ---
 
