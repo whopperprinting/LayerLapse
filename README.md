@@ -69,7 +69,7 @@ I am working on making custom brackets for my printers to easily attach the sens
 
 ---
 
-## 🔧 Uploading Firmware (Only needed if you're customizing — LayerLapse is shipped preloaded and ready to use)
+## 🔧 Uploading Firmware (Only needed if you're customizing — LayerLapse is shipped preloaded and ready to use from the box)
 
 Steps:
 1. Copy the [code from here](code/DIY_LayerLapse_firmware.txt) for a starting point
