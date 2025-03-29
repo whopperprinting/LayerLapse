@@ -6,7 +6,7 @@ This guide will help you build your own basic version of the LayerLapse timelaps
 
 ## 🔌 What You Need
 
-Right click the links and click "open in new tab".
+***Right click the links and click "open in new tab" to keep the instructions open.***
 
 | Item | Example/Link |
 |------|----------------|
