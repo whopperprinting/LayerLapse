@@ -16,3 +16,5 @@ This table outlines the key pin assignments for the LayerLapse device using the 
 ## Pinout Diagram
 
 ![ATTiny1604pinout](https://github.com/user-attachments/assets/44c14b94-aa45-4a28-9825-55f1770bce04)
+
+[Full Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny804-06-07-1604-06-07-DataSheet-DS40002312A.pdf)
