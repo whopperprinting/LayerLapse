@@ -44,8 +44,10 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 
 ---
 
-## ❌ Not Working
-- [None known yet]
+## ❌ Not Compatible
+- Sony A7C
+- A7C II
+- A7CR cameras
 - [Gathering more info]
 
 ---
