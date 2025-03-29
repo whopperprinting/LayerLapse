@@ -45,9 +45,9 @@ This is [what I used](https://amzn.to/3XERjiq) for my Nikon camera.
 1. Connect the positive pin of the Hall sensor to the 5V pin on your Arduino
 2. Connect the GND pin of the Hall sensor to the GND on the Arduino
 3. Connect the OUT pin of the Hall sensor to pin 7
-4. Connect the GND pin from the camera remote PCB and the AF pin to the ***emitter*** of the transistor
+4. Connect the GND pin from the camera remote PCB **and** the AF pin to the ***emitter*** of the transistor
 5. Connect a 1k Ohm resistor to the a jumper wire, and connect this to pin 5
-6. Connect the RLS pin and the GND from the Arduino to the ***collector*** pin
+6. Connect the RLS pin **and** the GND from the Arduino to the ***collector*** pin
 
 Your device should look like the wiring below:
 
