@@ -38,7 +38,7 @@ The extra GPIO pin opens the door for creative mods: add a servo, LED, infrared 
 
 ## DIY Option:
 
-For those who prefer to build their own timelapse device, a [full DIY guide](docs/diy-build-guide.md) is included in this repository. While the DIY route is completely possible using off-the-shelf components, **LayerLapse was created to save time, simplify the process, and deliver beautiful results right out of the box.**
+For those who prefer to build their own timelapse device, I have written a [full DIY guide](docs/diy-build-guide.md). While the DIY route is completely possible using off-the-shelf components, **LayerLapse was created to save time, simplify the process, and deliver beautiful results right out of the box.**
 
 ---
 
