@@ -34,7 +34,7 @@ This is [what I used](https://amzn.to/3XERjiq) for my Nikon camera.
 
      <img src="https://github.com/user-attachments/assets/a660cdf3-21ae-4858-80f5-7f2e2914f32e" alt="Taking apart the camera trigger" width="250"/>
 
-2. We can set aside the button circuit board. We will only be using the 2.5mm female jack for this project. You can cut the wires between them or unsolder the wires.
+2. We can set aside the button circuit board. We will only be using the 2.5mm female jack for this project. You can cut the wires between them or unsolder them.
 3. Now we have all the parts we need for this project.
 
 ### Wiring
