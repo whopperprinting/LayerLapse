@@ -6,6 +6,8 @@ This guide will help you build your own basic version of the LayerLapse timelaps
 
 ## 🔌 What You Need
 
+Right click the links and click "open in new tab".
+
 | Item | Example/Link |
 |------|----------------|
 | Microntroller (like an Arduino or anything else that you have) | [What I used](https://amzn.to/4ibiYyZ) |
@@ -16,7 +18,7 @@ This guide will help you build your own basic version of the LayerLapse timelaps
 | Breadboard jumper wires | [What I used](https://amzn.to/3RqsenG) |
 | Magnets | [What I used](https://amzn.to/4j6uLz9) |
 
-You'll also need an AC Power dummy battery (get one compatible with your camera). You'll need this for long printing sessions, so your camera doesn't die mid print.
+You'll also need an AC power dummy battery (get one compatible with your camera). You'll need this for long printing sessions, so your camera doesn't die mid print.
 This is [what I used](https://amzn.to/3XERjiq) for my Nikon camera.
 
 ### Optional:
