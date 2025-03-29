@@ -13,7 +13,7 @@ This guide will help you build your own basic version of the LayerLapse timelaps
 | Camera trigger (compatible with your camera) | [What I used](https://amzn.to/4hSzcg3) |
 | Transistor (e.g., PN2222) | [What I used](https://amzn.to/3Y7ognG) |
 | 1k Ohm resistor | [What I used](https://amzn.to/4hTAXtA) |
-| Breadboard Jumper wires | [What I used](https://amzn.to/3RqsenG) |
+| Breadboard jumper wires | [What I used](https://amzn.to/3RqsenG) |
 | Magnets | [What I used](https://amzn.to/4j6uLz9) |
 | Breadboard (optional) | [What I used](https://amzn.to/4292l0u) |
 
