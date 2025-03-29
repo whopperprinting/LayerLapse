@@ -6,8 +6,8 @@ const int cameraTriggerPin = 5; // Camera trigger connected to digital pin 5
 // Add a potentiometer to this to setup to change delays on the go, not necessary
 
 // Fixed delay settings
-const unsigned long potDelay = 500;  // Delay in milliseconds before taking the photo
-const unsigned long cooldownDelay = 2000; // Cooldown delay before allowing another trigger
+const unsigned long potDelay = 500;  // Delay in milliseconds before taking the photo. Ensure this is LOWER than the delay you put in the gcode.
+const unsigned long cooldownDelay = 2000; // Cooldown delay before allowing another trigger (ensures the camera doesn't spam photos when parked)
 
 // State tracking
 unsigned long lastTriggerTime = 0;  
