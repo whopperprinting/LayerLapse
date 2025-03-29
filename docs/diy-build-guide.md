@@ -61,7 +61,7 @@ You are now ready to upload the code to your Arduino.
 
 ## Mounting Sensor & Magnet
 
-Everyone has different printers so this step will look different for everyone, but the main idea is the same for everyone.
+Everyone has different printers so this step will look different for everyone, but the main idea is the same.
 
 ### Steps
 
