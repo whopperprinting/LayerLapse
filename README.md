@@ -24,9 +24,9 @@ It works with virtually any 3D printer as long as you can mount the sensor somew
 - A 1 foot long, 3.5mm male-to-male cable (connects the mainboard to the sensor board)
 - A small 5×5×2mm neodymium magnet for mounting to your print head
 
-### Not Included (can be added):
-- The board is powered via USB-C (cable **not** included by default — available as an add-on). (soon)
-- Camera shutter cables (2.5mm to your camera brand) are also **not** included by default, but will be available as optional add-ons. (soon)
+### Not Included (can be added soon):
+- The board is powered via USB-C (cable **not** included by default — available as an add-on soon)
+- Camera shutter cables (2.5mm to your camera brand) are also **not** included by default, but will be available as optional add-ons soon
 
 ### Modifying the Board:
 
