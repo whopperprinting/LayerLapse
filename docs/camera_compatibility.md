@@ -4,7 +4,7 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 
 ✅ = Fully working  
 ⚠️ = Should work/uncertain
-❌ = Not compatible (or needs further testing)
+❌ = Not compatible
 
 ---
 
