@@ -11,7 +11,7 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 ## ✅ Confirmed Working
 
 <details>
-<summary><strong>Nikon Cameras</strong></summary>
+<summary><strong>Nikon</strong></summary>
 
 - Z7
 - Z7 II
@@ -55,7 +55,7 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 </details>
 
 <details>
-<summary><strong>Canon Cameras</strong></summary>
+<summary><strong>Canon</strong></summary>
   
 - EOS R1 / R3 / R5 / R5 Mark II
 - EOS 1D / 1D C / 1Ds / 1D Mark II / 1D Mark II N / 1D Mark III / 1D Mark IV / 1D X Mark III / 1D X Mark II / 1Ds Mark II / 1Ds Mark III 
@@ -68,7 +68,7 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 </details>
 
 <details>
-<summary><strong>Pentax Cameras</strong></summary>
+<summary><strong>Pentax</strong></summary>
   
 - K1 / K3 / K3 II / K5 / K5 II / K5 IIs / K7 / K30 / K50 / K10D / K20D / K100D / K100D Super / K110D / K200D / K500 / 645D / 645Z / ist / ist D / ist DL / ist DL2 / ist Ds / ist DS2 / MZ-6 / MZ-L / ZX-L
 
