@@ -39,7 +39,7 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 
 </details>
 
-## Should Work (need to confirm)
+## ⚠️ Should Work (Unverified, need to confirm)
 
 <details>
 <summary><strong>Nikon</strong></summary>
@@ -71,20 +71,20 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 
 </details>
 
----
+<details>
+<summary><strong>Sony</strong></summary>
 
-## ⚠️ Partial / Unverified
-- Canon (TBD)
-- Sony (TBD)
-- Fujifilm (TBD)
-- [Gathering more info]
+- Sony Alpha A58 / A3000 / A3500 / A5000 / A5100 / A6000 / A6100 / A6300 / A6400 / A6500 / A6600
+- Sony Alpha A1 / A1 II / A9 / A9 II / A9 III / A7 / A7 II / A7 III / A7 IV / A7R / A7R II / A7R III / A7R IV / A7R V / A7S / A7S II / A7S III / NEX-3NL
+- Sony DSC-HX300 / HX400 / HX400V / HX50V / HX60V / HX90 / HX90V
+- Sony DSC-RX10 / RX10 II / RX10 III / RX10 IV / RX100 II / RX100 III / RX100 IV / RX100 V / RX100 VI / RX100 VII / RX1R II / WX500 / ZV-1
+
+</details>
 
 ---
 
 ## ❌ Not Compatible
-- Sony A7C
-- A7C II
-- A7CR cameras
+- Sony A7C/ A7C II / A7CR cameras
 - [Gathering more info]
 
 ---
