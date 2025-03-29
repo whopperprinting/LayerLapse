@@ -68,7 +68,7 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 </details>
 
 <details>
-<summary><strong>Pentax</strong></summary>
+<summary><strong>Pentax (C2 - RS-60E3)</strong></summary>
   
 - K1 / K3 / K3 II / K5 / K5 II / K5 IIs / K7 / K30 / K50 / K10D / K20D / K100D / K100D Super / K110D / K200D / K500 / 645D / 645Z / ist / ist D / ist DL / ist DL2 / ist Ds / ist DS2 / MZ-6 / MZ-L / ZX-L
 
