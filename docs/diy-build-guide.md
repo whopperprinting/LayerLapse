@@ -12,7 +12,7 @@ This guide will help you build your own basic version of the LayerLapse timelaps
 | Hall effect sensor (3-pin, e.g., A3144) | [What I used](https://amzn.to/4ja3YCi) |
 | Camera trigger (compatible with your camera) | [What I used](https://amzn.to/4hSzcg3) |
 | Transistor (e.g., PN2222) | [What I used](https://amzn.to/3Y7ognG) |
-| Ohm resistor | [What I used](https://amzn.to/4hTAXtA) |
+| 1k Ohm resistor | [What I used](https://amzn.to/4hTAXtA) |
 | Breadboard Jumper wires | [What I used](https://amzn.to/3RqsenG) |
 | Magnets | [What I used](https://amzn.to/4j6uLz9) |
 | Breadboard (optional) | [What I used](https://amzn.to/4292l0u) |
