@@ -11,7 +11,7 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 ## ✅ Confirmed Working
 
 <details>
-<summary><strong>Nikon</strong></summary>
+<summary><strong>Nikon (MC-DC2)</strong></summary>
 
 - Z7
 - Z7 II
@@ -45,7 +45,7 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 ## ⚠️ Should Work (Unverified, need to confirm)
 
 <details>
-<summary><strong>Nikon</strong></summary>
+<summary><strong>Nikon (MC-30)</strong></summary>
   
 - Nikon Z9 / Z8
 - Nikon D850 / D810 / D800 / D700 / D500
@@ -55,7 +55,7 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 </details>
 
 <details>
-<summary><strong>Canon</strong></summary>
+<summary><strong>Canon (RS-80N3 & RS-60E3)</strong></summary>
   
 - EOS R1 / R3 / R5 / R5 Mark II
 - EOS 1D / 1D C / 1Ds / 1D Mark II / 1D Mark II N / 1D Mark III / 1D Mark IV / 1D X Mark III / 1D X Mark II / 1Ds Mark II / 1Ds Mark III 
@@ -87,7 +87,7 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 
 <details>
 
-<summary><strong>Fujifilm</strong></summary>
+<summary><strong>Fujifilm (RR-100)</strong></summary>
 
 </br>
 Works with Fujifilm cameras that have a 2.5mm socket:
@@ -115,7 +115,7 @@ Works with Fujifilm cameras that have a 2.5mm socket:
 
 <details>
   
-<summary><strong>Panasonic</strong></summary>
+<summary><strong>Panasonic (DMW-RSL1)</strong></summary>
   
 - DC-S1 / DC-S1R / DC-S1H / DC-S5 / DC-G9 / G9 II / DC-GH7 / DC-GH6 / DC-GH5 / DC-GH5S / DC-FZ2500 / DC-FZ2000 / DC-FZ1000 / DC-FZ1000 II
 - DMC-G1 / DMC-G10 / DMC-G2 / DMC-G3 / DMC-G5 / DMC-G6 / DMC-G7 / DMC-G85 / DMC-GF1 / DMC-GH1 / DMC-GH2 / DMC-GH3 / DMC-GH4 / DMC-GX7 / DMC-GX8 / L1 / L-10 / LC-1 / DMC-FZ300 / DMC-FZ100 / DMC-FZ150 / DMC-FZ20 / DMC-FZ200 / DMC-FZ20K / DMC-FZ20S / DMC-FZ30 / DMC-FZ30K / DMC-FZ30S / DMC-FZ50 / DMC-FZ50K / DMC-FZ50S
