@@ -67,4 +67,4 @@ You are now ready to upload the code to your Arduino.
 
 ## 🤝 Support Me!
 This DIY guide is offered freely to the maker community.  
-If you'd like a compact, plug-and-play, pre-assembled version, check out the official
+If you'd like a compact, plug-and-play, pre-assembled version, check out the official LayerLapse device!
