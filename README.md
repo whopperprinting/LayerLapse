@@ -84,19 +84,6 @@ Steps:
 
 ---
 
-## 🎯 Features
-
-- Triggers a camera after each layer using a hall effect sensor + magnet
-- Adjustable camera delay (0–5 seconds) to eliminate blur from printer vibrations
-- Compatible with DSLR and mirrorless cameras using 2.5mm shutter jacks
-- Plug-and-play — no firmware mods, no printer connection, no hassle
-- Compact, custom PCB with a built-in dial and pre-installed shutter jack
-- Extra GPIO pin for expansion — add a servo, LED, IR module, etc.
-- Open-source firmware — customize timing, logic, or camera behavior if desired
-- Optional DIY guide included for building your own version from scratch
-
----
-
 ## 🧠 Want to Build Your Own?
 
 Awesome! I want everyone of all skills to enjoy their own timelapses! I've made a DIY guide with a list of materials so you can prototype your own version with an Arduino. [Check out the DIY guide!](docs/diy-build-guide.md)  
