@@ -34,7 +34,7 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 </details>
 
 <details>
-<summary><strong>Olympus</strong></summary>
+<summary><strong>Olympus (C1)</strong></summary>
 
 CB1 Connector:
   
