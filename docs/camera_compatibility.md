@@ -104,17 +104,6 @@ Works with Fujifilm cameras that have a 2.5mm socket:
 
 <details>
   
-<summary><strong>Sony</strong></summary>
-  
-- Sony Alpha A58 / A3000 / A3500 / A5000 / A5100 / A6000 / A6100 / A6300 / A6400 / A6500 / A6600
-- Sony Alpha A1 / A1 II / A9 / A9 II / A9 III / A7 / A7 II / A7 III / A7 IV / A7R / A7R II / A7R III / A7R IV / A7R V / A7S / A7S II / A7S III / NEX-3NL
-- Sony DSC-HX300 / HX400 / HX400V / HX50V / HX60V / HX90 / HX90V
-- Sony DSC-RX10 / RX10 II / RX10 III / RX10 IV / RX100 II / RX100 III / RX100 IV / RX100 V / RX100 VI / RX100 VII / RX1R II / WX500 / ZV-1
-
-</details>
-
-<details>
-  
 <summary><strong>Panasonic (DMW-RSL1)</strong></summary>
   
 - DC-S1 / DC-S1R / DC-S1H / DC-S5 / DC-G9 / G9 II / DC-GH7 / DC-GH6 / DC-GH5 / DC-GH5S / DC-FZ2500 / DC-FZ2000 / DC-FZ1000 / DC-FZ1000 II
