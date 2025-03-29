@@ -2,6 +2,8 @@
 
 **LayerLapse** is a camera trigger built for 3D printing that captures a photo on every new layer using a hall effect sensor and a small magnet mounted to your print head. It creates buttery-smooth, layer-by-layer timelapse footage — perfect for makers, designers, content creators, or anyone who wants to see their prints from a fresh new perspective.
 
+[Timelapse taken with LayerLapse](https://drive.google.com/file/d/1yM6MAXSeQeDOSAyOlXsLas1SyJ33AH5O/view?usp=sharing)
+
 The LayerLapse system is completely independent electronically from your printer; nothing actually plugs into the printer. It requires no printer firmware modifications, soldering, or programming, nor does it make physical contact with any moving parts — meaning no unnecessary wear and tear on your printer (like a physical limit switch would cause.) You simply add a few lines of gcode in your slicer, and LayerLapse simply listens for the magnet and triggers your camera accordingly. A built-in dial lets you adjust the delay between magnet detection and photo capture (0–5 seconds, alterable), allowing your printer time to settle and eliminating blur caused by vibrations or motion that would otherwise show up on the final timelapse.
 
 The official LayerLapse device is a plug-and-play solution using a compact custom PCB, built and sold by **Whopper Printing**. You can get the completed, plug-and-play [LayerLapse kit here.](https://whopperprinting.com/) (Releasing April 2025)
