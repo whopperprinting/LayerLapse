@@ -1,4 +1,4 @@
-# DIY Build Guide (Not Complete)
+# DIY Build Guide
 
 **Disclosure:** Some links below are Amazon affiliate links. As an Amazon Associate, I earn from qualifying purchases. Using these links helps support the project at no extra cost to you.
 
