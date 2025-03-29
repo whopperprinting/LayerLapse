@@ -1,8 +1,8 @@
 # LayerLapse – 3D Printing Timelapse Trigger Device
 
-**LayerLapse** is a camera trigger designed for 3D printing that triggers an external camera on every new layer using a hall effect sensor and a magnet mounted to your print head. This creates buttery smooth, layer-by-layer timelapse footage — perfect for makers, designers,content creators, or just anyone that wants to see their prints/designs from a new perspective!  
+**LayerLapse** is a camera trigger designed for 3D printing that triggers an external camera on every new layer using a hall effect sensor and a magnet mounted to your print head. This creates buttery smooth, layer-by-layer timelapse footage — perfect for makers, designers, content creators, or just anyone that wants to see their prints/designs from a new perspective!  
 
-The LayerLapse system is completely independent electronically from your printer; nothing actually plugs into the printer. It doesn’t require any printer firmware modifications, soldering, programming, nor does it make physical contact with any moving parts — meaning no unnecessary wear and tear on your printer (like a physical limit switch would cause.) You simply add a few lines of gcode in your slicer, and LayerLapse simply listens for the magnet and triggers your camera accordingly. A built-in dial lets you adjust the delay between magnet detection and photo capture (0–5 seconds, alterable), allowing your printer time to settle and eliminating blur caused by vibrations or motion that would otherwise show up on the final timelapse.
+The LayerLapse system is completely independent electronically from your printer; nothing actually plugs into the printer. It requires no printer firmware modifications, soldering, or programming, nor does it make physical contact with any moving parts — meaning no unnecessary wear and tear on your printer (like a physical limit switch would cause.) You simply add a few lines of gcode in your slicer, and LayerLapse simply listens for the magnet and triggers your camera accordingly. A built-in dial lets you adjust the delay between magnet detection and photo capture (0–5 seconds, alterable), allowing your printer time to settle and eliminating blur caused by vibrations or motion that would otherwise show up on the final timelapse.
 
 The official LayerLapse device is a plug-and-play solution using a compact custom PCB, built and sold by **Whopper Printing**. You can get the completed, plug-and-play [LayerLapse kit here.](https://whopperprinting.com/) (Releasing April 2025)
 
@@ -13,7 +13,7 @@ It works with virtually any 3D printer as long as you can mount the sensor somew
 
 ### Camera Compatibility
 
-**The [camera compatibility list](docs/camera_compatibility.md) is a work in progress.** So far, I can only confirm the cameras on this list work with 100% certainty. I am still gathering more information. LayerLapse does come with a spare GPIO pin, so if you did happen to have issues, you could theoretically make it work with some creativity.
+**The [camera compatibility list](docs/camera_compatibility.md) is a work in progress.** So far, I can only confirm the cameras on this list work with 100% certainty, but theoretically it should work with any camera. I am still gathering more information. LayerLapse does come with a spare GPIO pin, so if you did happen to have issues, you could theoretically make it work with some creativity.
 
 ### Each LayerLapse kit includes:
 
@@ -34,7 +34,7 @@ The extra GPIO pin opens the door for creative mods: add a servo, LED, infrared 
 
 > #### **Note:** You'll need a UPDI programmer (3-pin: GND, VCC, UPDI) to upload custom firmware.
 
-### DIY Option:
+## DIY Option:
 
 For those who prefer to build their own timelapse device, a [full DIY guide](docs/diy-build-guide.md) is included in this repository. While the DIY route is completely possible using off-the-shelf components, **LayerLapse was created to save time, simplify the process, and deliver beautiful results right out of the box.**
 
@@ -56,21 +56,21 @@ Once set up, LayerLapse will automatically trigger your camera after every layer
 
 ## 🎯 Features
 
-- Triggers after each layer via a hall effect sensor + magnet
-- Optional camera delay to reduce vibration blur from printer movements
-- Compatible with DSLR/mirrorless cameras (2.5mm shutter trigger jack)
-- Plug-and-play simplicity — just power it, mount the sensor and magnet, and go
-- Fully customizable firmware — tweak timing, behavior, and logic to fit your setup
-- Breakout GPIO pin for expansion — add a servo, LED, infrared, or other mods
-- Open-source firmware (hardware is proprietary)
-- DIY-friendly guide included for building your own version with off-the-shelf parts
+- Triggers a camera after each layer using a hall effect sensor + magnet
+- Adjustable camera delay (0–5 seconds) to eliminate blur from printer vibrations
+- Compatible with DSLR and mirrorless cameras using 2.5mm shutter jacks
+- Plug-and-play — no firmware mods, no printer connection, no hassle
+- Compact, custom PCB with a built-in dial and pre-installed shutter jack
+- Extra GPIO pin for expansion — add a servo, LED, IR module, etc.
+- Open-source firmware — customize timing, logic, or camera behavior if desired
+- Optional DIY guide included for building your own version from scratch
 
 ---
 
 ## 🔧 Uploading Firmware (Only needed if you're customizing — LayerLapse is shipped preloaded and ready to use)
 
 Steps:
-1. Copy the code from [`code/LayerLapse_firmware.txt`](code/DIY_LayerLapse_firmware.txt) for a starting point
+1. Copy the [code from here](code/DIY_LayerLapse_firmware.txt) for a starting point
 2. Paste it into the Arduino IDE
 3. Connect your UPDI programmer to the board (3-pin: GND, VCC, UPDI)
 4. Select the correct board/port and upload
@@ -79,39 +79,16 @@ Steps:
 
 ## 🧠 Want to Build Your Own?
 
-Awesome! I want everyone of all skills to enjoy their own timelapses! I've made a DIY guide so you can prototype your own version with an Arduino. Check out the DIY guide:  
-👉 [`docs/diy-build-guide.md`](docs/diy-build-guide.md)
-
-You’ll need:
-- Microcontroller (like an Arduino)
-- Hall effect sensor (3-pin, e.g., A3144)
-- 2.5mm camera shutter cable (compatible with your camera)
-- 2.5mm female jack
-- Transistor (e.g., PN2222)
-- 1k Ohm resistor
-- Jumper wires
-- Breadboard (optional, but convenient)
-
-Optional:
-- A potentiometer for adjustable delay
-
----
-
-## 📸 Camera Compatibility
-
-Right now, only **Nikon cameras** are confirmed to work.  
-I'm gathering data for Sony, Canon, Fuji, etc.
-
-See full list of compatibility: 
-📂 [`docs/camera_compatibility.md`](docs/camera_compatibility.md)
-Want to help? Submit a PR or open an issue!
+Awesome! I want everyone of all skills to enjoy their own timelapses! I've made a DIY guide with a list of materials so you can prototype your own version with an Arduino. Check out the DIY guide:  
+  
+- [DIY Guide](docs/diy-build-guide.md)
 
 ---
 
 ## 🤝 Contributing
 
 Want to improve the firmware, add camera compatibility info, or help make this project better?
-Please read the [`Contributing Guidelines`](CONTRIBUTING.md) before submitting a pull request or opening an issue.
+Please read the [contributing guidelines](CONTRIBUTING.md) before submitting a pull request or opening an issue.
 
 ---
 
@@ -121,7 +98,7 @@ The code in this repo is licensed under the **MIT License** — for firmware onl
 
 > 🛠️ You are welcome to build your own DIY version using Arduino components and the open firmware provided.🚫 However, the PCB and branding are not licensed for reproduction or resale.
 
-See the full license here: [`LICENSE`](LICENSE)
+[Click to view full license](LICENSE)
 
 ---
 
@@ -135,4 +112,4 @@ For questions, feedback, or orders:
 📷 Instagram: [@whopperprinting](https://instagram.com/whopperprinting)  
 🕒 TikTok: [@whopperprinting](https://www.tiktok.com/@whopperprinting?is_from_webapp=1&sender_device=pc)
 
-LayerLapse™ and Whopper Printing™ are trademarks of Whopper Printing. All rights reserved.
+**LayerLapse™ and Whopper Printing™ are trademarks of Whopper Printing. All rights reserved.**
