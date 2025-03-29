@@ -29,8 +29,8 @@ This is [what I used](https://amzn.to/3XERjiq) for my Nikon camera.
 # Steps
 
 ### Initial Setup
-
-1. Take apart the camera trigger using a small screwdriver. The goal is to get the circuit boards by themselves. We just want the 2.5mm jack PCB.
+  
+1. Take apart the camera trigger using a small screwdriver. The goal is to get the circuit boards by themselves. We just want the 2.5mm jack PCB from this trigger.
 
      <img src="https://github.com/user-attachments/assets/a660cdf3-21ae-4858-80f5-7f2e2914f32e" alt="Taking apart the camera trigger" width="250"/>
 
@@ -38,9 +38,10 @@ This is [what I used](https://amzn.to/3XERjiq) for my Nikon camera.
 3. Now we have all the parts we need for this project.
 
 ### Wiring
-
+  
+  
 ***Note: All the pin numbers are arbitrary, but if you just want to copy and paste the code later, use the same pins.***
-
+  
 1. Connect the positive pin of the Hall sensor to the 5V pin on your Arduino
 2. Connect the GND pin of the Hall sensor to the GND on the Arduino
 3. Connect the OUT pin of the Hall sensor to pin 7
