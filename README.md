@@ -63,6 +63,12 @@ Once set up, LayerLapse will automatically trigger your camera after every layer
 
 ---
 
+## 🧩 Custom Mounts/Enclosures
+
+I am working on making custom brackets for my printers to easily attach the sensors to my printers. My hope is that others will post their mounts as well! I am also working on an enclosure for the LayerLapse device, but I will also be uploading the final STEP file for the board so anyone can design their own enclosure!
+
+---
+
 ## 🔧 Uploading Firmware (Only needed if you're customizing — LayerLapse is shipped preloaded and ready to use)
 
 Steps:
@@ -70,12 +76,6 @@ Steps:
 2. Paste it into the Arduino IDE
 3. Connect your UPDI programmer to the board (3-pin: GND, VCC, UPDI)
 4. Select the correct board/port and upload
-
----
-
-## 🧩 Custom Mounts/Enclosures
-
-I am working on making custom brackets for my printers to easily attach the sensors to my printers. My hope is that others will post their mounts as well! I am also working on an enclosure for the LayerLapse device, but I will also be uploading the final STEP file for the board so anyone can design their own enclosure!
 
 ---
 
