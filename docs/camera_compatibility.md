@@ -34,6 +34,22 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 </details>
 
 <details>
+<summary><strong>Olympus</strong></summary>
+
+CB2 Connector:
+  
+- OM-1, E-M1X, E-M1 Mark II, E‑M1 Mark III, E-M5 Mark III
+
+</details>
+
+<details>
+<summary><strong>Samsung (C1)</strong></summary>
+  
+- GX-1L, GX-1S, GX-10, GX-20, NX100, NX11, NX10, NX5
+
+</details>
+
+<details>
 <summary><strong>Canon (C1/C2 - RS-80N3 & RS-60E3)</strong></summary>
   
 - EOS R1 / R3 / R5 / R5 Mark II
@@ -47,7 +63,7 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 </details>
 
 <details>
-<summary><strong>Pentax (C2 - RS-60E3)</strong></summary>
+<summary><strong>Pentax (C1 - RS-60E3)</strong></summary>
   
 - K1 / K3 / K3 II / K5 / K5 II / K5 IIs / K7 / K30 / K50 / K10D / K20D / K100D / K100D Super / K110D / K200D / K500 / 645D / 645Z / ist / ist D / ist DL / ist DL2 / ist Ds / ist DS2 / MZ-6 / MZ-L / ZX-L
 
@@ -61,6 +77,15 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 - Sony Alpha A1 / A1 II / A9 / A9 II / A9 III / A7 / A7 II / A7 III / A7 IV / A7R / A7R II / A7R III / A7R IV / A7R V / A7S / A7S II / A7S III / NEX-3NL
 - Sony DSC-HX300 / HX400 / HX400V / HX50V / HX60V / HX90 / HX90V
 - Sony DSC-RX10 / RX10 II / RX10 III / RX10 IV / RX100 II / RX100 III / RX100 IV / RX100 V / RX100 VI / RX100 VII / RX1R II / WX500 / ZV-1
+- Sony ILCE-a1, a9, a9M2, a7, a7M2, a7M3, a7M4, a7R, a7RM2, a7RM3, a7RM4, a7S, a7SM2, a7SM3, a6600, a6100, a6400, a6500, a6300, a6000, a5000, a5100, a3000, a3500
+- QX1
+- HX300, HX350, HX400, HX400V, HX50, HX50V, HX60, HX60V, HX99, HX95, HX90, HX90V, HX80
+- QX30
+- RX0, RXOM2, RX100M2, RX100M3, RX100M4, RX100M5, RX100M5A, RX100M6, RX100M7, RX10, RX10M2, RX10M3, RX10M4, RX1RM2
+- WX500, WX700, WX800
+- a58, a68
+- NEX-3N
+- ZV-1
 
 </details>
 
@@ -78,6 +103,7 @@ Works with Fujifilm cameras that have a 2.5mm socket:
 - Fujifilm X100VI / X100V / X100F / X100T / X70 / X30 / XF10
 - Fujifilm X-E3 / X-E2S / X-E2 / X-E1
 - Fujifilm X-PRO3 / X-PRO2
+- FinePix S5 Pro, S3 Pro
 
 </details>
 
@@ -89,6 +115,22 @@ Works with Fujifilm cameras that have a 2.5mm socket:
 - DMC-G1 / DMC-G10 / DMC-G2 / DMC-G3 / DMC-G5 / DMC-G6 / DMC-G7 / DMC-G85 / DMC-GF1 / DMC-GH1 / DMC-GH2 / DMC-GH3 / DMC-GH4 / DMC-GX7 / DMC-GX8 / L1 / L-10 / LC-1 / DMC-FZ300 / DMC-FZ100 / DMC-FZ150 / DMC-FZ20 / DMC-FZ200 / DMC-FZ20K / DMC-FZ20S / DMC-FZ30 / DMC-FZ30K / DMC-FZ30S / DMC-FZ50 / DMC-FZ50K / DMC-FZ50S
 - Lumix S9 Cameras
 - G100D Cameras
+
+</details>
+
+<details>
+  
+<summary><strong>Contax (C1)</strong></summary>
+  
+- 645, N1, NX, N Digital
+
+</details>
+
+<details>
+  
+<summary><strong>Sigma</strong></summary>
+  
+- Sd1
 
 </details>
 
