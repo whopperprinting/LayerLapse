@@ -65,14 +65,14 @@ Everyone has different printers so this step will look different for everyone, b
 
 ### Steps
 
-1. Affix a magnet to your printer head, somewhere where the sensor will be able to get close to it. ***On my Bambu Lab P1P, I placed the magnet on the bottom of the print head near the back right corner.***
+1. Affix a magnet to your print head; somewhere the sensor will be able to get close to it. ***On my Bambu Lab P1P, I placed the magnet on the bottom of the print head near the back right corner and taped it.***
 2. Attach the sensor to the printer, somewhere it will be safe during printing. It needs to be right next to the magnet at its parked location. ***On my P1P, I taped the sensor to the frame on the right side near the back***
 
   <img src="https://github.com/user-attachments/assets/38141a6e-3dc4-42a5-a9af-9e5bb8034e29" alt="Sensor location" width="500"/>
 
 ## Custom gcode
 
-This is the very last step of the whole build. You'll need to figure out a location to park your printhead during the timelapse. For example, I parked my P1P in the back right corner, then I taped the hall sensor to the frame right under where the magnet will be. Save this location and add this to the layer change gcode in your slicer. This is the final puzzle piece to the whole system.
+This is the very last step of the whole build. You'll need to figure out a location to park your printhead during the timelapse. For example, I parked my P1P in the back right corner, then I taped the hall sensor to the frame right under where the magnet will be parked during the photo capture. Save this location and add this to the layer change gcode in your slicer. This is the final puzzle piece to the whole system.
 
 [See gcode examples here.](/code/custom-gcode)
 
@@ -82,9 +82,10 @@ Now all thats left is to plug in your Arduino, plug in your camera to the 2.5mm 
 
 ### Tips:
 
+- Add a new printer profile in your slicer and name this "Timelapse" or something to that effect. That way you can still print normally, but when you want a timelapse, you can just switch printer profiles.
 - Set a delay in your code that is reasonable. If you take a photo right after triggering, you'll get vibrations in your timelapse.
 - Make sure to set your focus wisely before starting. I reccomend placing an object where you're going to print and focus on that. You don't want to look at your timelapse in the end and see it's out of focus.
-- Make sure your camera's standby time is high enough to not cause lag during the printing. I had mine set to go into standby mode after a few seconds, this cause lag between the trigger and the camere actually taking the photo, ruining timelapses until I figure out the issue. But again, every camera is different.
+- Make sure your camera's standby time is high enough to not cause lag during the printing. I had mine set to go into standby mode after a few seconds. This caused lag between the trigger and the camera actually taking the photo, ruining timelapses until I figured out the issue. But again, every camera is different, so test out your own settings before committing to a print.
 - Use an AC dummy battery for your camera. You wouldn't want your camera dying halfway through a print.
 
 ---
