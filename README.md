@@ -86,7 +86,7 @@ Steps:
 
 ## 🧠 Want to Build Your Own?
 
-Awesome! I want everyone of all skills to enjoy their own timelapses! I've made a DIY guide with a list of materials so you can prototype your own version with an Arduino. Check out the [DIY guide!](docs/diy-build-guide.md)  
+Awesome! I want everyone of all skills to enjoy their own timelapses! I've made a DIY guide with a list of materials so you can prototype your own version with an Arduino. [Check out the DIY guide!](docs/diy-build-guide.md)  
   
 ---
 
