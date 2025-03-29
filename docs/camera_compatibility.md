@@ -11,7 +11,7 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 ## ✅ Confirmed Working
 
 <details>
-<summary><strong>Nikon (MC-DC2)</strong></summary>
+<summary><strong>Nikon (N3 - MC-DC2)</strong></summary>
 
 - Z7
 - Z7 II
@@ -45,7 +45,7 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 ## ⚠️ Should Work (Unverified, need to confirm)
 
 <details>
-<summary><strong>Nikon (MC-30)</strong></summary>
+<summary><strong>Nikon (N1 - MC-30)</strong></summary>
   
 - Nikon Z9 / Z8
 - Nikon D850 / D810 / D800 / D700 / D500
@@ -55,7 +55,7 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 </details>
 
 <details>
-<summary><strong>Canon (RS-80N3 & RS-60E3)</strong></summary>
+<summary><strong>Canon (C1/C2 - RS-80N3 & RS-60E3)</strong></summary>
   
 - EOS R1 / R3 / R5 / R5 Mark II
 - EOS 1D / 1D C / 1Ds / 1D Mark II / 1D Mark II N / 1D Mark III / 1D Mark IV / 1D X Mark III / 1D X Mark II / 1Ds Mark II / 1Ds Mark III 
@@ -76,7 +76,7 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 
 <details>
   
-<summary><strong>Sony</strong></summary>
+<summary><strong>Sony (S2)</strong></summary>
   
 - Sony Alpha A58 / A3000 / A3500 / A5000 / A5100 / A6000 / A6100 / A6300 / A6400 / A6500 / A6600
 - Sony Alpha A1 / A1 II / A9 / A9 II / A9 III / A7 / A7 II / A7 III / A7 IV / A7R / A7R II / A7R III / A7R IV / A7R V / A7S / A7S II / A7S III / NEX-3NL
@@ -87,7 +87,7 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 
 <details>
 
-<summary><strong>Fujifilm (RR-100)</strong></summary>
+<summary><strong>Fujifilm (F3 - RR-100)</strong></summary>
 
 </br>
 Works with Fujifilm cameras that have a 2.5mm socket:
