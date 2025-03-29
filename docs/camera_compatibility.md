@@ -43,7 +43,7 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 
 <details>
 <summary><strong>Nikon</strong></summary>
-
+  
 - Nikon Z9 / Z8
 - Nikon D850 / D810 / D800 / D700 / D500
 - Nikon D1 / D1h / D1x / D2H / D2x / D2Xs / D3 / D3s / D3x / D4 / D4s / D5 / D100 / D200 / D300 / D300s
@@ -53,7 +53,7 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 
 <details>
 <summary><strong>Canon Cameras</strong></summary>
-
+  
 - EOS R1 / R3 / R5 / R5 Mark II
 - EOS 1D / 1D C / 1Ds / 1D Mark II / 1D Mark II N / 1D Mark III / 1D Mark IV / 1D X Mark III / 1D X Mark II / 1Ds Mark II / 1Ds Mark III 
 - EOS 5D / 5DS / 5DS R / 5D Mark II / 5D Mark III / 5D Mark IV / 6D / 6D Mark II / 7D / 7D Mark II
@@ -66,18 +66,31 @@ Here are cameras that have been tested and confirmed to work with LayerLapse via
 
 <details>
 <summary><strong>Pentax Cameras</strong></summary>
-
+  
 - K1 / K3 / K3 II / K5 / K5 II / K5 IIs / K7 / K30 / K50 / K10D / K20D / K100D / K100D Super / K110D / K200D / K500 / 645D / 645Z / ist / ist D / ist DL / ist DL2 / ist Ds / ist DS2 / MZ-6 / MZ-L / ZX-L
 
 </details>
 
 <details>
+  
 <summary><strong>Sony</strong></summary>
-
+  
 - Sony Alpha A58 / A3000 / A3500 / A5000 / A5100 / A6000 / A6100 / A6300 / A6400 / A6500 / A6600
 - Sony Alpha A1 / A1 II / A9 / A9 II / A9 III / A7 / A7 II / A7 III / A7 IV / A7R / A7R II / A7R III / A7R IV / A7R V / A7S / A7S II / A7S III / NEX-3NL
 - Sony DSC-HX300 / HX400 / HX400V / HX50V / HX60V / HX90 / HX90V
 - Sony DSC-RX10 / RX10 II / RX10 III / RX10 IV / RX100 II / RX100 III / RX100 IV / RX100 V / RX100 VI / RX100 VII / RX1R II / WX500 / ZV-1
+
+</details>
+
+<details>
+
+<summary><strong>Fujifilm</strong></summary>
+  
+- Fujifilm X-T5 / X-T4 / X-T3 / X-T2 / X-T1 / X-T30 II / X-T30 / X-T20 / X-T10 / X-T100 / X-H1 / X-H2 / X-H2S / X-A5
+- Fujifilm GFX100SII / GFX 100S / GFX 100 / GFX 50R / GFX 50S / GFX 50S II
+- Fujifilm X100VI / X100V / X100F / X100T / X70 / X30 / XF10
+- Fujifilm X-E3 / X-E2S / X-E2 / X-E1
+- Fujifilm X-PRO3 / X-PRO2
 
 </details>
 
