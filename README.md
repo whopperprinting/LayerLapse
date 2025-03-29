@@ -52,12 +52,28 @@ For those who prefer to build their own timelapse device, a [full DIY guide](doc
 
 Once set up, LayerLapse will automatically trigger your camera after every layer, creating smooth and consistent timelapse footage!
 
-### Tips:
+### ✨ Tips:
 
 - Set a delay in your code that is reasonable. If you take a photo right after triggering, you'll get vibrations in your timelapse.
 - Make sure to set your focus wisely before starting. I reccomend placing an object where you're going to print and focus on that. You don't want to look at your timelapse in the end and see it's out of focus.
 - Make sure your camera's standby time is high enough to not cause lag during the printing. I had mine set to go into standby mode after a few seconds, this cause lag between the trigger and the camere actually taking the photo, ruining timelapses until I figure out the issue. But again, every camera is different.
 - Use an AC dummy battery for your camera. You wouldn't want your camera dying halfway through a print.
+
+---
+
+## 🔧 Uploading Firmware (Only needed if you're customizing — LayerLapse is shipped preloaded and ready to use)
+
+Steps:
+1. Copy the [code from here](code/DIY_LayerLapse_firmware.txt) for a starting point
+2. Paste it into the Arduino IDE
+3. Connect your UPDI programmer to the board (3-pin: GND, VCC, UPDI)
+4. Select the correct board/port and upload
+
+---
+
+## 🧩 Custom Mounts/Enclosures
+
+I am working on making custom brackets for my printers to easily attach the sensors to my printers. My hope is that others will post their mounts as well! I am also working on an enclosure for the LayerLapse device, but I will also be uploading the final STEP file for the board so anyone can design their own enclosure!
 
 ---
 
@@ -71,16 +87,6 @@ Once set up, LayerLapse will automatically trigger your camera after every layer
 - Extra GPIO pin for expansion — add a servo, LED, IR module, etc.
 - Open-source firmware — customize timing, logic, or camera behavior if desired
 - Optional DIY guide included for building your own version from scratch
-
----
-
-## 🔧 Uploading Firmware (Only needed if you're customizing — LayerLapse is shipped preloaded and ready to use)
-
-Steps:
-1. Copy the [code from here](code/DIY_LayerLapse_firmware.txt) for a starting point
-2. Paste it into the Arduino IDE
-3. Connect your UPDI programmer to the board (3-pin: GND, VCC, UPDI)
-4. Select the correct board/port and upload
 
 ---
 
