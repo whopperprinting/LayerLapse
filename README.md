@@ -40,10 +40,6 @@ The extra GPIO pin opens the door for creative mods: add a servo, LED, infrared 
 
 > #### **Note:** You'll need a UPDI programmer (3-pin: GND, VCC, UPDI) to upload custom firmware.
 
-## DIY Option:
-
-For those who prefer to build their own timelapse device, I have written a [full DIY guide](docs/diy-build-guide.md). While the DIY route is completely possible using off-the-shelf components, **LayerLapse was created to save time, simplify the process, and deliver beautiful results right out of the box.** No soldering, wiring, or programming.
-
 ---
 
 ## 🛠️ Getting Started (Quick Setup)
@@ -86,8 +82,8 @@ Steps:
 
 ## 🧠 Want to Build Your Own?
 
-Awesome! I want everyone of all skills to enjoy their own timelapses! I've made a DIY guide with a list of materials so you can prototype your own version with an Arduino. [Check out the DIY guide!](docs/diy-build-guide.md)  
-  
+For those who prefer to build their own timelapse device, I have written a [full DIY guide](docs/diy-build-guide.md). While the DIY route is completely possible using off-the-shelf components, **LayerLapse was created to save time, simplify the process, and deliver beautiful results right out of the box.** No soldering, wiring, or programming.
+
 ---
 
 ## 🤝 Contributing
