@@ -124,9 +124,14 @@ The code in this repo is licensed under the **MIT License** — for firmware onl
 
 Created by **Whopper Printing**  
 
+Support me [on Patreon!](https://www.patreon.com/whopperprinting)
+
 For questions, feedback, or orders:  
 📩 Email: whopperprinting@gmail.com  
 🔗 Website: [whopperprinting.com](https://whopperprinting.com/) <- Purchase LayerLapse here!  
+
+### Socials
+
 📷 Instagram: [@whopperprinting](https://instagram.com/whopperprinting)  
 🕒 TikTok: [@whopperprinting](https://www.tiktok.com/@whopperprinting?is_from_webapp=1&sender_device=pc)
 
