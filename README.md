@@ -65,7 +65,7 @@ Once set up, LayerLapse will automatically trigger your camera after every layer
 
 ## 🧩 Custom Mounts/Enclosures
 
-I am working on making custom brackets for my printers to easily attach the sensors to my printers. My hope is that others will post their mounts as well! I am also working on an enclosure for the LayerLapse device, but I will also be uploading the final STEP file for the board so anyone can design their own enclosure!
+I am working on making custom brackets to easily attach the sensors to my printers. My hope is that others will post their mounts as well for their own setups and printers. I am also working on an enclosure for the LayerLapse device, but I will also be uploading the final STEP file for the board so anyone can design their own enclosure!
 
 ---
 
