@@ -15,7 +15,7 @@ It works with virtually any 3D printer as long as you can mount the sensor somew
 
 ### Camera Compatibility
 
-**The [camera compatibility list](docs/camera_compatibility.md) is a work in progress.** So far, I can only confirm the cameras on this list work with 100% certainty, but theoretically it should work with any camera given one end is a 2.5mm jack. I am still gathering more information. LayerLapse does come with a spare GPIO pin, so if you did happen to have issues, you could theoretically make it work with some creativity.
+**The [camera compatibility list](docs/camera_compatibility.md) is a work in progress.** So far, I can only confirm the cameras on this list work with 100% certainty, but theoretically it should work with any camer, as long as one end is a 2.5mm male jack. I am still gathering more information. However, LayerLapse does come with a spare GPIO pin, so if you did happen to have issues, you could theoretically make it work with some creativity.
 
 ### Each LayerLapse kit includes:
 
