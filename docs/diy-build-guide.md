@@ -95,8 +95,8 @@ Now all thats left is to plug in your Arduino, plug in your camera to the 2.5mm 
 ---
 
 ## 🤝 Support Me!
-This DIY guide is offered freely to the maker community.
+This DIY guide is offered freely to everyone!
 
 Consider supporting me [on Patreon!](https://www.patreon.com/whopperprinting)
 
-If you'd like a compact, plug-and-play, pre-assembled version, check out the official LayerLapse device! (Releasing April 2025)
+If you'd like a compact, plug-and-play, pre-assembled version, [check out the official LayerLapse device](https://whopperprinting.com/products/layerlapse)! (Releasing April 2025)
