@@ -2,7 +2,7 @@
 
 **Disclosure:** Some links below are Amazon affiliate links. As an Amazon Associate, I earn from qualifying purchases. Using these links helps support the project at no extra cost to you.
 
-This guide will help you build your own basic version of the LayerLapse timelapse trigger using off-the-shelf parts.
+This guide will help you build your own basic version of the LayerLapse timelapse trigger using off-the-shelf parts. To get the plug & play LayerLapse, [visit my website!](https://whopperprinting.com/products/layerlapse)
 
 ## 🔌 What You Need
 
