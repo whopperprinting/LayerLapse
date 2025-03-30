@@ -21,6 +21,8 @@ It works with virtually any 3D printer as long as you can mount the sensor somew
 
 **The [camera compatibility list](docs/camera_compatibility.md) is a work in progress.** I am still gathering more information. However, LayerLapse does come with a spare GPIO pin, so if you did happen to have issues, you could theoretically make it work with some creativity.
 
+For example, the GPIO pin can control a bluetooth remote for mobile phones! Tutorial coming soon.
+
 ### Each LayerLapse kit includes:
 
 - The compact, fully assembled LayerLapse mainboard
