@@ -26,7 +26,7 @@ It works with virtually any 3D printer as long as you can mount the sensor somew
 - The compact, fully assembled LayerLapse mainboard
 - A dedicated magnetic Hall effect sensor board
 - 1 foot long, 3.5mm male-to-male cable (connects the mainboard to the sensor board)
-- A small 5×5×2mm neodymium magnet for mounting to your print head
+- A small 5×5×2mm neodymium magnet for mounting to your print head (can use your own)
 
 ### Not Included (can be added soon):
 - The board is powered via USB-C (cable **not** included by default — available as an add-on soon)
