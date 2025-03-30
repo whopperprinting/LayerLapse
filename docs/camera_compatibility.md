@@ -1,10 +1,10 @@
 # Camera Compatibility
 
-Here are cameras that have been tested and confirmed to work with LayerLapse via a 2.5mm shutter release cable. This list is a work in progress.
+This is a list of cameras that have been tested and confirmed to work with LayerLapse via a 2.5mm shutter release cable. This list is a work in progress.
 
-**Mobile phones can be triggered with LayerLapse using the onboard GPIO pin, but you'll need to do some minimal wiring. Tutorial coming soon.**
+**Mobile phones can be triggered with LayerLapse using the onboard GPIO pin, but you'll need to do some hacking. You'll have to wire the GPIO pin to a bluetooth shutter for phones, for more advanced users. Tutorial coming soon.**
 
-If I receive enough requests for a specific camera to be made compatible, I will consider making a special PCB to make it work.
+If I receive enough requests for a specific camera to be made compatible, I will consider making a special PCB to make it work for that camera.
 
 ✅ = Fully working  
 ⚠️ = Should work/unverified  
