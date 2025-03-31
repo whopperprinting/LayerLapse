@@ -76,7 +76,7 @@ Everyone has different printers so this step will look different for everyone, b
 
 This is the very last step of the whole build. You'll need to figure out a location to park your printhead during the timelapse. For example, I parked my P1P in the back right corner, then I taped the hall sensor to the frame right under where the magnet will be parked during the photo capture. Save this location and add this to the layer change gcode in your slicer. This is the final puzzle piece to the whole system.
 
-### Tip: Make sure taht you duplicate your existing printer profile before making modifications. This will allow you to easily switch between regular printing mode and timelapse mode with the click of a button.
+### Tip: Make sure that you duplicate your existing printer profile before making modifications. This will allow you to easily switch between regular printing mode and timelapse mode with the click of a button.
 
 [See gcode examples here.](/code/custom-gcode)
 
