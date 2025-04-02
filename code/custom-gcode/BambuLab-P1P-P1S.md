@@ -30,3 +30,4 @@ M73 L{layer_num+1}
 M991 S0 P{layer_num} ;notify layer change
 ;
 ```
+In your slicer printer settings, turn on "smooth" under timelapse. You can move the prime tower anywhere on the print plate that is best for you and your camera position.
