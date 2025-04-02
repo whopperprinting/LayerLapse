@@ -27,7 +27,7 @@ For example, the GPIO pin can control a bluetooth remote for mobile phones! Tuto
 
 - The compact, fully assembled LayerLapse mainboard
 - A dedicated magnetic Hall effect sensor board
-- 1 foot long, 3.5mm male-to-male cable (connects the mainboard to the sensor board)
+- 1 foot long, 3.5mm male-to-male cable (connects the mainboard to the sensor board) (3 foot long cable is available as an add-on)
 - A small 5×5×2mm neodymium magnet for mounting to your print head (can use your own)
 
 ### Not Included (can be added soon):
