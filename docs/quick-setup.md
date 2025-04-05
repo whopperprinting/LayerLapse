@@ -5,7 +5,7 @@
    - Plug in a USB-C power cable
    - Connect the 2.5mm shutter cable from the LayerLapse mainboard to your camera
 2. Mount the magnet to your 3D printer's toolhead (use the included 5×5×2mm magnet or use your own)
-   - Note: I use tape, it's easy to remove if I ever need to and I've had no issues on any of my printers.
+   - Note: I use tape, it's easy to remove if I ever need to and I've had no issues on any of my printers. It's also easy to reposition during setup.
 4. Place the sensor near the printer’s parked position (that you choose in gcode) — ideally within ~10mm of the magnet at its closest pass so the sensor can pickup the magnet.
    - A blue LED lights up on the mainboard when a magnet is detected. This should help you find the sweet spot for where to park and mount your sensor.
    
