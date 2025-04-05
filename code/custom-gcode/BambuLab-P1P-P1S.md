@@ -21,8 +21,8 @@ G92 E0
 G1 E-[retraction_length] F1800
 G17
 G2 Z{layer_z + 0.4} I0.86 J0.86 P1 F20000 ; spiral lift a little
-G1 X256 Y200 F20000
-G4 P900 ;wait 900 milliseconds before moving after parking
+G1 X256 Y200 F20000 ; THIS IS THE PARKED POSITION, change this if you want to change the parking position if you put the sensor in a different location (F20000 is the speed, this can be left the same)
+G4 P900 ;wait 900 milliseconds before moving after parking (THIS IS THE DELAY TIME. This is how long the printer will stay parked in the positon while the camera takes a photo.)
 {endif}
 M623
 ; update layer progress
