@@ -15,7 +15,7 @@ Here is a mount I made for the Bambu P1P:
   
 6. Duplicate your existing printer profile so you don't mess up your regular prints. This way, with the click of a button, you can change your printer from regular mode to timelapse mode and back. Also so you have a gcode to default back to in case you make mistakes.
 7. Add G-code (like a custom layer change script) in your slicer to move the print head to that sensor location (e.g., G1 X0 Y200) after each layer. [Custom gcode available here.](code/custom-gcode)
-   - This step will be different for everyone depending on the printer and slicer you are using. Below is how to do it in Bambu Studio for Bambu printers, but the idea is the same for all printers and slicers.
+   - This step will be different for everyone depending on the printer and slicer you are using. Below is how to do it in Bambu Studio for Bambu printers, but the idea is the same for all printers and slicers. You also have the freedom to change the parked position and delay that will best suit your own needs.
 
 ---
 
