@@ -57,6 +57,8 @@ The extra GPIO pin opens the door for creative mods: add a servo, LED, infrared 
 
 Once set up, LayerLapse will automatically trigger your camera after every layer, creating smooth and consistent timelapse footage!
 
+Go to the [Quick Setup page](docs/quick-setup.md) for more details on setup.
+
 ### ✨ Tips:
 
 - Set a delay that is reasonable. If you take a photo right after triggering, you'll get vibrations in your timelapse.
