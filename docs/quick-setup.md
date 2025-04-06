@@ -42,6 +42,7 @@ G1 X256 Y200 F20000 ; THIS IS THE PARKED POSITION, change this if you want to ch
 ---
   
 3. Save your new preset as a different name (i.e., P1P Timelapse), this way you can swap between timelapse mode and regular printing with the click of a button.
+   
   ![save](https://github.com/user-attachments/assets/f66204df-b03e-49f5-b4b6-fd5c44d8a624)
 
 
