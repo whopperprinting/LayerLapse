@@ -14,7 +14,10 @@ This table outlines the key pin assignments for the LayerLapse device using the 
 | VCC                  | 1                | VDD  | —         | 5V power input (via USB-C)              |
 
 ## Pinout Diagram
-
-![ATTiny1604pinout](https://github.com/user-attachments/assets/44c14b94-aa45-4a28-9825-55f1770bce04)
+  
+If you are programming the board yourself with Arduino IDE, you will need to use the orange and blue boxes for the pin numbers.
+  
+![ATtiny1604-pinout](https://github.com/user-attachments/assets/0afc320b-8b87-46af-b53f-f0b9376e6ff1)
 
 [Full ATTiny1604 Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny804-06-07-1604-06-07-DataSheet-DS40002312A.pdf)
+
