@@ -14,6 +14,7 @@
   ![DSC_2681](https://github.com/user-attachments/assets/970ea87c-7181-4a04-bec6-e2e3799f22ea)
   
 Use tape to mount the sensor, or design your own custom mount for your printer using the [STEP file](docs/HallSensorTest.step) of the sensor!
+Check out the [existing brackets that have been designed](docs/3D-files/Brackets-Mounts). Feel free to make your own and add to this project!
   
 6. Duplicate your existing printer profile so you don't mess up your regular prints. This way, with the click of a button, you can change your printer from regular mode to timelapse mode and back. Doing it this way also means you have clean gcode to default back to in case you make mistakes.
    
