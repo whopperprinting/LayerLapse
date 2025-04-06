@@ -11,7 +11,6 @@
    
   ![DSC_2681](https://github.com/user-attachments/assets/970ea87c-7181-4a04-bec6-e2e3799f22ea)
 Use tape to mount the sensor, or design your own custom mount for your printer using the [STEP file](docs/HallSensorTest.step) of the sensor!
-Here is a mount I made for the Bambu P1P:
   
 6. Duplicate your existing printer profile so you don't mess up your regular prints. This way, with the click of a button, you can change your printer from regular mode to timelapse mode and back. Also so you have a gcode to default back to in case you make mistakes.
 7. Add G-code (like a custom layer change script) in your slicer to move the print head to that sensor location (e.g., G1 X0 Y200) after each layer. [Custom gcode available here.](code/custom-gcode)
@@ -50,6 +49,16 @@ G1 X256 Y200 F20000 ; THIS IS THE PARKED POSITION, change this if you want to ch
 
 Once set up, LayerLapse will automatically trigger your camera after every layer, creating smooth and consistent timelapse footage!
 
+### Additional Info:
+
+Here is a [custom mount I made for the Bambu P1P.](docs/3D-files/Brackets-Mounts/Bambu/HallSensorBracket-P1P.stl)
+If you use this bracket and are using my code, I also [made a sensor locator](docs/3D-files/Brackets-Mounts/Bambu/SensorLocator.stl) so you can perfectly place the sensor where the code specifies.
+  
+Here is where to place the sensor locator in order to have an accurate location:
+
+![sensorlocator](https://github.com/user-attachments/assets/5bb87da7-d2f7-48f6-b6b4-274befc48d63)
+
+  
 ---
 
 ### For A1 Mini
