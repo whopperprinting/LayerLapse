@@ -9,7 +9,7 @@
    - Note: I use tape, it's easy to remove if I ever need to and I've had no issues on any of my printers. It's also easy to reposition during setup.
    
 4. Place the sensor near the printer’s parked position (that you choose in gcode) — ideally within ~10mm of the magnet at its closest pass so the sensor can pickup the magnet.
-   - A blue LED lights up on the mainboard when a magnet is detected. This should help you find the sweet spot for where to park and mount your sensor.
+   - A blue LED lights up on the mainboard when a magnet is detected. This should help you find the sweet spot for where to park and mount your sensor. Just move your print head around until the LED lights up!
    
   ![DSC_2681](https://github.com/user-attachments/assets/970ea87c-7181-4a04-bec6-e2e3799f22ea)
   
