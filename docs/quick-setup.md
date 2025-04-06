@@ -4,16 +4,20 @@
    - Connect the 3.5mm cable between the mainboard and the sensor board
    - Plug in a USB-C power cable
    - Connect the 2.5mm shutter cable from the LayerLapse mainboard to your camera
+   
 2. Mount the magnet to your 3D printer's toolhead (use the included 5×5×2mm magnet or use your own)
    - Note: I use tape, it's easy to remove if I ever need to and I've had no issues on any of my printers. It's also easy to reposition during setup.
+   
 4. Place the sensor near the printer’s parked position (that you choose in gcode) — ideally within ~10mm of the magnet at its closest pass so the sensor can pickup the magnet.
    - A blue LED lights up on the mainboard when a magnet is detected. This should help you find the sweet spot for where to park and mount your sensor.
    
   ![DSC_2681](https://github.com/user-attachments/assets/970ea87c-7181-4a04-bec6-e2e3799f22ea)
+  
 Use tape to mount the sensor, or design your own custom mount for your printer using the [STEP file](docs/HallSensorTest.step) of the sensor!
   
-6. Duplicate your existing printer profile so you don't mess up your regular prints. This way, with the click of a button, you can change your printer from regular mode to timelapse mode and back. Also so you have a gcode to default back to in case you make mistakes.
-7. Add G-code (like a custom layer change script) in your slicer to move the print head to that sensor location (e.g., G1 X0 Y200) after each layer. [Custom gcode available here.](code/custom-gcode)
+6. Duplicate your existing printer profile so you don't mess up your regular prints. This way, with the click of a button, you can change your printer from regular mode to timelapse mode and back. Doing it this way also means you have clean gcode to default back to in case you make mistakes.
+   
+8. Add G-code (like a custom layer change script) in your slicer to move the print head to that sensor location (e.g., G1 X0 Y200) after each layer. [Custom gcode available here.](code/custom-gcode)
    - This step will be different for everyone depending on the printer and slicer you are using. Below is how to do it in Bambu Studio for Bambu printers, but the idea is the same for all printers and slicers. You also have the freedom to change the parked position and delay that will best suit your own needs.
   
 ---
