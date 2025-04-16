@@ -9,7 +9,7 @@
 The official LayerLapse device is a plug-and-play solution using a compact custom PCB designed, hand-built, and sold by me, **Whopper Printing**! You can get the completed, plug-and-play:  
 👉 [LayerLapse kit here.](https://whopperprinting.com/products/layerlapse)
   
-[Timelapse taken with LayerLapse](https://www.instagram.com/reel/DHZqo8mtuyH/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==)
+📷 [Timelapse taken with LayerLapse](https://www.instagram.com/reel/DHZqo8mtuyH/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==)
 
 ### Plug & Play
 
