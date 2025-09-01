@@ -23,6 +23,8 @@ If I receive enough requests for a specific camera to be made compatible, I will
 - Df
 - Nikon Coolpix P7700 / Coolpix P7800 / Coolpix P1000 / Coolpix P1100
 
+-T3i(600D)
+
 </details>
 
 ## ⚠️ Should Work (Unverified, need to confirm)
@@ -62,7 +64,7 @@ CB1 Connector:
 - EOS 1D / 1D C / 1Ds / 1D Mark II / 1D Mark II N / 1D Mark III / 1D Mark IV / 1D X Mark III / 1D X Mark II / 1Ds Mark II / 1Ds Mark III 
 - EOS 5D / 5DS / 5DS R / 5D Mark II / 5D Mark III / 5D Mark IV / 6D / 6D Mark II / 7D / 7D Mark II
 - EOS 10D / 20D / 20Da / 30D / 40D / 50D / EOS 1V / EOS 3 / D30 / D60 / D2000
-- Rebel XS(1000D) / T3(1100D) / T5(1200D) / T6(1300D) / T7(1500D) / SL1(100D) / SL2(200D) / SL3(250D) / XT(350D) / XTi(400D) / XSi(450D) / T1i(500D) / T2i(550D) / T3i(600D) / T4i(650D) / T5i(700D) / T6i(750D) / T6s(760D) / T7i(800D) / T8i(850D)
+- Rebel XS(1000D) / T3(1100D) / T5(1200D) / T6(1300D) / T7(1500D) / SL1(100D) / SL2(200D) / SL3(250D) / XT(350D) / XTi(400D) / XSi(450D) / T1i(500D) / T2i(550D) / T4i(650D) / T5i(700D) / T6i(750D) / T6s(760D) / T7i(800D) / T8i(850D)
 - EOS 60D / 60Da / 70D / 77D / 80D / 90D / R / RP / R6 / R6 Mark II / R7 / R8 / R10 / R100 / M6 / M6 Mark II / M5 
 - Powershot G10 / G11 / G12 / G15 / G16 / G1X / G1X Mark II / G1X Mark III / G3X / G5X / SX50 HS / SX60 HS / SX70 HS
 
