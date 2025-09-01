@@ -25,7 +25,12 @@ If I receive enough requests for a specific camera to be made compatible, I will
 
 </details>
 
--T3i(600D)
+<details>
+<summary><strong>Canon (C1/C2 - RS-80N3 & RS-60E3)</strong></summary>
+
+- T3i(600D)
+
+</details>
 
 ## ⚠️ Should Work (Unverified, need to confirm)
 
