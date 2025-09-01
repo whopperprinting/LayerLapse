@@ -12,7 +12,7 @@ If I receive enough requests for a specific camera to be made compatible, I will
 
 ---
 
-## ✅ Confirmed Working
+## ✅ Confirmed Working (Click to open each category)
 
 <details>
 <summary><strong>Nikon (N3 - MC-DC2)</strong></summary>
