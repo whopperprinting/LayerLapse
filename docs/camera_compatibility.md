@@ -23,9 +23,9 @@ If I receive enough requests for a specific camera to be made compatible, I will
 - Df
 - Nikon Coolpix P7700 / Coolpix P7800 / Coolpix P1000 / Coolpix P1100
 
--T3i(600D)
-
 </details>
+
+-T3i(600D)
 
 ## ⚠️ Should Work (Unverified, need to confirm)
 
